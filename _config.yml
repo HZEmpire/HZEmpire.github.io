@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Haozhou Xu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Haozhou Xu (徐浩洲)"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hzempire.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "hzempire/hzempire.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Haozhou Xu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Hi, I am a 4-th year Undergraduate student at the Department of Computer Science in the [University of Hong Kong](https://www.hku.hk/). Currently I served as a Research Assistant working on the COVID-19 analysis & Disease Prevention System project under the supervision of [Prof. Eric Schuldenfrei](https://www.arch.hku.hk/staff/arch/schuldenfrei-eric-h/) and [Prof. Hayden Kwok-Hay So](https://www.eee.hku.hk/~hso/). My research interests include Machine Learning, Computer Vision, Data Science, and General Artificial Intelligence."
+  location         : "Hong Kong SAR"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "hzxu@hku.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/HZEmpire"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/haozhou_empire?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/haozhou-xu-858062288/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
