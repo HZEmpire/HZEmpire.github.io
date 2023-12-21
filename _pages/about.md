@@ -17,12 +17,12 @@ I warmly welcome those who are interested in computer technology or enthusiastic
 
 ## Publications
 <div style="display:inline-block; border:2px; margin:10px;">
- <img src="https://hzempire.github.io/images/PIBS.jpg" style="float:left;" width="160" height="160" alt="markdown">
-<p style="font: sans-serif; font-size: 12px;">
+ <img src="https://hzempire.github.io/images/PIBS.jpg" style="float:left; margin-right:30px;" width="160" height="160" alt="markdown">
+<p style="font: sans-serif; font-size: 16px;">
 Chun-Yin Lai, <b>Haozhou Xu</b>, and Hayden Kwok-Hay So. PIBS: A Multi-modal Sensor Node for Pervasive Intelligent Building Sensing, IEEE <b>In Progress</b>, 2023.
 </p>
 <br>
-<p style="font: arial; font-size: 11px;">
+<p style="font: arial; font-size: 15px;">
 An smart detection system that, with user authorization, provides location tracking and air circulation analysis data for mobile devices.
 </p>
 </div>
