@@ -17,7 +17,7 @@ I warmly welcome those who are interested in computer technology or enthusiastic
 
 ## Publications
 <div style="display:inline-block; border:2px; margin:10px;">
- <img src="https://hzempire.github.io/images/PIBS.jpg" style="float:left; margin-right:30px;" max-width="130" max-height="130" alt="markdown">
+ <img src="https://hzempire.github.io/images/PIBS.jpg" style="float:left; margin-right:30px;" width="130" height="130" alt="markdown">
 <p style="font: sans-serif; font-size: 16px;">
 Chun-Yin Lai, <b>Haozhou Xu</b>, and Hayden Kwok-Hay So. PIBS: A Multi-modal Sensor Node for Pervasive Intelligent Building Sensing, IEEE <b>In Progress</b>, 2023.
 </p>
@@ -28,7 +28,7 @@ An smart detection system that, with user authorization, provides location track
 
 ## Competitions
 <div style="display:inline-block; border:2px; margin:10px;">
- <img src="https://hzempire.github.io/images/cashalgo.jpg" style="float:left; margin-right:30px;" max-width="130" max-height="130" alt="markdown">
+ <img src="https://hzempire.github.io/images/cashalgo.jpg" style="float:left; margin-right:30px;" width="130" height="130" alt="markdown">
 <p style="font: sans-serif; font-size: 16px;">
 [CASH Algo Trading Challenge 2023](https://algochallenge.org/hkequity2023/), Best Strategy Design Award (1st Rank), 2023.
 </p>
