@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Haozhou Xu"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Haozhou Xu (徐浩洲)"
 description              : &description "personal description"
 url                      : https://hzempire.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Haozhou Xu"
-  avatar           : "profile.png"
-  bio              : "Hi, I am a 4-th year Undergraduate student at the Department of Computer Science in the [University of Hong Kong](https://www.hku.hk/). Currently I served as a Research Assistant working on the COVID-19 analysis & Disease Prevention System project under the supervision of [Prof. Eric Schuldenfrei](https://www.arch.hku.hk/staff/arch/schuldenfrei-eric-h/) and [Prof. Hayden Kwok-Hay So](https://www.eee.hku.hk/~hso/). My research interests include Machine Learning, Computer Vision, Data Science, and General Artificial Intelligence."
+  avatar           : "2B9A9828.jpg"
+  bio              : "4-th year CS undergraduate at HKU"
   location         : "Hong Kong SAR"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/HZEmpire"
+  github           : "HZEmpire"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/haozhou_empire?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"
+  instagram        : "haozhou_empire?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/haozhou-xu-858062288/"
+  linkedin         : "haozhou-xu-858062288"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
