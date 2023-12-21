@@ -11,13 +11,19 @@ redirect_from:
 # About me
 Hi, I am a 4-th year Undergraduate student at the Department of Computer Science in the [University of Hong Kong](https://www.hku.hk/). Currently I served as a Research Assistant working on the COVID-19 analysis & Disease Prevention System project under the supervision of [Prof. Eric Schuldenfrei](https://www.arch.hku.hk/staff/arch/schuldenfrei-eric-h/) and [Prof. Hayden Kwok-Hay So](https://www.eee.hku.hk/~hso/). 
 <br>
-My research interests include Machine Learning, Computer Vision, Data Science, and General Artificial Intelligence. 
+My research interests include <b>Machine Learning, Computer Vision, Data Science, and General Artificial Intelligence</b>. In addition, I have a strong passion for photography, covering subjects such as natural landscapes and cultural themes. 
+<br>
+I warmly welcome those who are interested in computer technology or enthusiastic about photography to connect and exchange ideas with me.
 
 ## Publications
 <div style="display:inline-block; border:2px; margin:10px;">
- <img src="../images/PIBS.png" style="float:left;" width="280" height="224" alt="markdown">
-<p>
+ <img src="https://hzempire.github.io/images/PIBS.jpg" style="float:left;" width="160" height="160" alt="markdown">
+<p style="font: sans-serif; font-size: 12px;">
 Chun-Yin Lai, <b>Haozhou Xu</b>, and Hayden Kwok-Hay So. PIBS: A Multi-modal Sensor Node for Pervasive Intelligent Building Sensing, IEEE <b>In Progress</b>, 2023.
+</p>
+<br>
+<p style="font: arial; font-size: 11px;">
+An smart detection system that, with user authorization, provides location tracking and air circulation analysis data for mobile devices.
 </p>
 </div>
 
