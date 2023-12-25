@@ -17,6 +17,8 @@ main:
     
   - title: "Resume"
     url: "http://hzempire.github.io/files/Haozhou2023.pdf"
-    
+  
+  - title: "Sharing"
+    url: /portfolio/
   #- title: "Guide"
   #  url: /markdown/
