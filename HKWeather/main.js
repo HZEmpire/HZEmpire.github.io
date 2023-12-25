@@ -7,7 +7,7 @@ function setHTML(){
     const body = document.querySelector("body");
 
     // Set the body's content
-    body.innerHTML = `<header> <h1>My Weather Portal</h1> </header> <div class="container"> <div id="home"> <div><h2>Hong Kong<h2></div> <div class="content"> <div id="h_icon"><img></div> <div class="combine"> <div id="h_temp"></div> <div> <sup>°C</sup> <div>&nbsp;</div> </div> </div> <div class="combine"> <div id="h_humi"></div> <div> <sup><img src="./images/drop-64.png"></sup> <div>%</div> </div> </div> <div class="combine"> <div id="h_rain"></div> <div> <sup><img src="./images/rain-48.png"></sup> <div>mm</div> </div> </div> <div class="combine" id="h_uv" style="display: none;"> <div id="h_uv_rate"></div> <div> <sup><img src="./images/UVindex-48.png"></sup> <div>&nbsp;</div> </div> </div> </div> <div id="h_lastupdate"></div> <div id="h_warning" style="display: none;" onclick="warningClick()"> <div id="warning_b">Warning</div> <div id="warmsg" style="display: none;"></div> </div> </div> <div id="myloc"> <div> <h2>My Location<h2> <h3 id="m_loc">Loading your location...</h3> </div> <div class="content" id="m_content" style="display: none;"> <div class="combine"> <div id="m_temp"></div> <div> <sup>°C</sup> <div>&nbsp;</div> </div> </div> <div class="combine"> <div id="m_rain"></div> <div> <sup><img src="./images/rain-48.png"></sup> <div>mm</div> </div> </div> <div class="combine"> <div id="m_AQHI_risk"><img src="./images/aqhi-low.png"></div> <div> <sup id="m_AQHI"></sup> <div id="m_risk"></div> </div> </div> </div> </div> <div id="temp"> <div> <h2>Temperatures<h2> </div> <div id="hide_temp"> <h3>Select the location</h3> <select id="t_loc"></select> <div class="combine" id="t_out" style="display: none;"> <div id="t_outval"></div> <div> <sup>°C</sup> <div>&nbsp;</div> </div> </div> </div> </div> <div id="rain"> <div> <h2>Rainfall<h2> </div> <div id="hide_rain"> <h3>Select the location</h3> <select id="r_loc"></select> <div class="combine" id="r_out" style="display: none;"> <div id="r_outval"></div> <div> <sup>&nbsp;</sup> <div>mm</div> </div> </div> </div> </div> <div id="air"> <div> <h2>Air Quality<h2> </div> <div id="hide_air"> <h3>Select the location</h3> <select id="a_loc"></select> <div id="a_out" style="display: none;"> <div id="a_outval"></div> </div> </div> </div> <div id="nine"> <div><h2>9-Day Forecast<h2><div> <div id="n_forcast"></div> </div> </div>`;
+    body.innerHTML = `<header> <h1>Haozhou's Hong Kong Weather Portal</h1> </header> <div class="container"> <div id="home"> <div><h2>Hong Kong<h2></div> <div class="content"> <div id="h_icon"><img></div> <div class="combine"> <div id="h_temp"></div> <div> <sup>°C</sup> <div>&nbsp;</div> </div> </div> <div class="combine"> <div id="h_humi"></div> <div> <sup><img src="https://hzempire.github.io/HKWeather/images/drop-64.png"></sup> <div>%</div> </div> </div> <div class="combine"> <div id="h_rain"></div> <div> <sup><img src="https://hzempire.github.io/HKWeather/images/rain-48.png"></sup> <div>mm</div> </div> </div> <div class="combine" id="h_uv" style="display: none;"> <div id="h_uv_rate"></div> <div> <sup><img src="https://hzempire.github.io/HKWeather/images/UVindex-48.png"></sup> <div>&nbsp;</div> </div> </div> </div> <div id="h_lastupdate"></div> <div id="h_warning" style="display: none;" onclick="warningClick()"> <div id="warning_b">Warning</div> <div id="warmsg" style="display: none;"></div> </div> </div> <div id="myloc"> <div> <h2>My Location<h2> <h3 id="m_loc">Loading your location...</h3> </div> <div class="content" id="m_content" style="display: none;"> <div class="combine"> <div id="m_temp"></div> <div> <sup>°C</sup> <div>&nbsp;</div> </div> </div> <div class="combine"> <div id="m_rain"></div> <div> <sup><img src="https://hzempire.github.io/HKWeather/images/rain-48.png"></sup> <div>mm</div> </div> </div> <div class="combine"> <div id="m_AQHI_risk"><img src="https://hzempire.github.io/HKWeather/images/aqhi-low.png"></div> <div> <sup id="m_AQHI"></sup> <div id="m_risk"></div> </div> </div> </div> </div> <div id="temp"> <div> <h2>Temperatures<h2> </div> <div id="hide_temp"> <h3>Select the location</h3> <select id="t_loc"></select> <div class="combine" id="t_out" style="display: none;"> <div id="t_outval"></div> <div> <sup>°C</sup> <div>&nbsp;</div> </div> </div> </div> </div> <div id="rain"> <div> <h2>Rainfall<h2> </div> <div id="hide_rain"> <h3>Select the location</h3> <select id="r_loc"></select> <div class="combine" id="r_out" style="display: none;"> <div id="r_outval"></div> <div> <sup>&nbsp;</sup> <div>mm</div> </div> </div> </div> </div> <div id="air"> <div> <h2>Air Quality<h2> </div> <div id="hide_air"> <h3>Select the location</h3> <select id="a_loc"></select> <div id="a_out" style="display: none;"> <div id="a_outval"></div> </div> </div> </div> <div id="nine"> <div><h2>9-Day Forecast<h2><div> <div id="n_forcast"></div> </div> </div>`;
 
     // Set the click for case <= 500px
     temp_d = document.querySelector("#temp div:first-child");
@@ -54,7 +54,7 @@ function getPSR(psr){
 // Function for setting the background image
 function setBackground(time, rain){
     var div = document.querySelector("#home");
-    var url = "./images/";
+    var url = "https://hzempire.github.io/HKWeather/images/";
     var text_color = "black";
     if (time >= 6 && time < 18) {
         if (rain > 0)
@@ -425,22 +425,22 @@ async function setCurrent(){
     const m_AQHI_risk = document.querySelector("#m_AQHI_risk img");
     switch (AQ_RofDistrict[min_name].risk) {
         case "Low":
-            m_AQHI_risk.src = "./images/aqhi-low.png";
+            m_AQHI_risk.src = "https://hzempire.github.io/HKWeather/images/aqhi-low.png";
             break;
         case "Moderate":
-            m_AQHI_risk.src = "./images/aqhi-moderate.png";
+            m_AQHI_risk.src = "https://hzempire.github.io/HKWeather/images/aqhi-moderate.png";
             break;
         case "High":
-            m_AQHI_risk.src = "./images/aqhi-high.png";
+            m_AQHI_risk.src = "https://hzempire.github.io/HKWeather/images/aqhi-high.png";
             break;
         case "Very High":
-            m_AQHI_risk.src = "./images/aqhi-very_high.png";
+            m_AQHI_risk.src = "https://hzempire.github.io/HKWeather/images/aqhi-very_high.png";
             break;
         case "Serious":
-            m_AQHI_risk.src = "./images/aqhi-serious.png";
+            m_AQHI_risk.src = "https://hzempire.github.io/HKWeather/images/aqhi-serious.png";
             break;
         default:
-            m_AQHI_risk.src = "./images/aqhi-low.png";
+            m_AQHI_risk.src = "https://hzempire.github.io/HKWeather/images/aqhi-low.png";
             break;
     }
 
