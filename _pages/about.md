@@ -24,7 +24,7 @@ Chun-Yin Lai, <b>Haozhou Xu</b>, and Hayden Kwok-Hay So<br>
 IEEE <b>In Progress</b>, 2024.
 </p>
 <p style="font: arial; font-size: 15px;">
-An smart detection system that, with user authorization, provides location tracking and air circulation analysis data for mobile devices.
+An smart detection system for indoor human activity recognition.
 </p>
 </div>
 
