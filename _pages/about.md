@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About me
-Hi, I am a 4-th year Undergraduate student at the Department of Computer Science in the [University of Hong Kong](https://www.hku.hk/). Currently I served as a Research Assistant working on the COVID-19 analysis & Disease Prevention System project under the supervision of Dr. [Eric Schuldenfrei](https://www.arch.hku.hk/staff/arch/schuldenfrei-eric-h/) and Prof. [Hayden Kwok-Hay So](https://www.eee.hku.hk/~hso/). Previously I worked with Dr. [Hengshuang Zhao](https://hszhao.github.io/) on Scene Reconstruction and 3D Vision. I am also a member of the [HKU Astar Team](https://innoacademy.engg.hku.hk/robomaster-ai5/) responsible for the Vision Algorithm design.
+Hi, I am a 4-th year Undergraduate student at the Department of Computer Science in the [University of Hong Kong](https://www.hku.hk/). Currently I served as a Research Assistant working on the COVID-19 analysis & Disease Prevention System project under the supervision of Prof. [Eric Schuldenfrei](https://www.arch.hku.hk/staff/arch/schuldenfrei-eric-h/) and Prof. [Hayden Kwok-Hay So](https://www.eee.hku.hk/~hso/). Previously I worked with Dr. [Hengshuang Zhao](https://hszhao.github.io/) on Scene Reconstruction and 3D Vision. I am also a member of the [HKU Astar Team](https://innoacademy.engg.hku.hk/robomaster-ai5/) responsible for the Vision Algorithm design.
 <br>
 My research interests include <b>Machine Learning, Computer Vision, Data Science, and General Artificial Intelligence</b>. In addition, I have a strong passion for photography, covering subjects such as natural landscapes and cultural themes. 
 <br>
@@ -24,7 +24,7 @@ Chun-Yin Lai, <b>Haozhou Xu</b>, and Hayden Kwok-Hay So<br>
 IEEE <b>In Progress</b>, 2024.
 </p>
 <p style="font: arial; font-size: 15px;">
-An smart detection system for indoor human activity recognition.
+An smart detection system for indoor environmental monitoring and human activity recognition.
 </p>
 </div>
 
