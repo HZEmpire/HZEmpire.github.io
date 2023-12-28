@@ -13,22 +13,21 @@ Hi, I am a 4-th year Undergraduate student at the Department of Computer Science
 <br>
 My research interests include <b>Machine Learning, Computer Vision, Data Science, and General Artificial Intelligence</b>. In addition, I have a strong passion for photography, covering subjects such as natural landscapes and cultural themes. 
 <br>
-I warmly welcome those who are interested in computer technology or enthusiastic about photography to connect and exchange ideas with me.
+<b>I'm looking for MSc opportunities in Computer Science.</b> Feel free to contact me if you are interested.
 
 ## Publications
 <div style="display:inline-block; border:2px; margin:10px;">
  <img src="https://hzempire.github.io/images/PIBS.jpg" style="float:left; margin-right:30px;" width="130" height="130" alt="markdown">
 <p style="font: sans-serif; font-size: 16px;">
-PIBS: A Multi-modal Sensor Node for Pervasive Intelligent Building Sensing<br>
+PIBS: A Multi-modal Sensor Node for Pervasive Intelligent Building Sensing, IEEE <b>In Progress</b>, 2024.<br>
 Chun-Yin Lai, <b>Haozhou Xu</b>, and Hayden Kwok-Hay So<br>
-IEEE <b>In Progress</b>, 2024.
 </p>
 <p style="font: arial; font-size: 15px;">
-An smart detection system for indoor environmental monitoring and human activity recognition.
+An smart multi-modal sensor node detection system for indoor environmental monitoring and human activity recognition.
 </p>
 </div>
 
-## Competitions
+## Selected Projects
 <div style="display:inline-block; border:2px; margin:10px;">
  <img src="https://hzempire.github.io/images/cashalgo.jpg" style="float:left; margin-right:30px;" width="130" height="130" alt="markdown">
 <p style="font: sans-serif; font-size: 16px;">
@@ -36,6 +35,16 @@ An smart detection system for indoor environmental monitoring and human activity
 </p>
 <p style="font: arial; font-size: 15px;">
 A competition focuses on quantitative trading algorithms, requiring participants to design and implement an algorithm for a 2-month real-time simulation of Hong Kong stocks trading.
+</p>
+</div>
+
+<div style="display:inline-block; border:2px; margin:10px;">
+ <img src="https://hzempire.github.io/images/Semrecon.png" style="float:left; margin-right:30px;" width="130" height="130" alt="markdown">
+<p style="font: sans-serif; font-size: 16px;">
+Semantic Reconstruction, Summer Research, 2023.
+</p>
+<p style="font: arial; font-size: 15px;">
+A novel framework that integrates 2D features with RGBD frames and subsequently fuses these 2D features into 3D features to enhance the performance of reconstruction.
 </p>
 </div>
 
