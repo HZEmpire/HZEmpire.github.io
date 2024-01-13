@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-Hi, I am a senior Undergraduate student at the Department of Computer Science in the [University of Hong Kong](https://www.hku.hk/). Currently I served as a Research Assistant working on the COVID-19 analysis & Disease Prevention System project under the supervision of Prof. [Eric Schuldenfrei](https://www.arch.hku.hk/staff/arch/schuldenfrei-eric-h/) and Prof. [Hayden Kwok-Hay So](https://www.eee.hku.hk/~hso/). Previously I worked with Dr. [Hengshuang Zhao](https://hszhao.github.io/) on Scene Reconstruction and 3D Vision. I am also a member of the [HKU Astar Team](https://innoacademy.engg.hku.hk/robomaster-ai5/) responsible for the Vision Algorithm design.
+Hi, I am a Year-4 Undergraduate student in the Department of Computer Science at the [University of Hong Kong](https://www.hku.hk/). Currently I served as a Research Assistant working on the COVID-19 analysis & Disease Prevention System project under the supervision of Prof. [Eric Schuldenfrei](https://www.arch.hku.hk/staff/arch/schuldenfrei-eric-h/) and Prof. [Hayden Kwok-Hay So](https://www.eee.hku.hk/~hso/). Previously I worked with Prof. [Hengshuang Zhao](https://hszhao.github.io/) on Scene Reconstruction and 3D Vision. I am also a member of the [HKU Astar Team](https://innoacademy.engg.hku.hk/robomaster-ai5/) responsible for the Vision Algorithm design.
 <br>
 My research interests include Machine Learning, Computer Vision, Data Science, and General Artificial Intelligence. In addition, I have a strong passion for photography, welcome to visit my <a href="https://hzempire.github.io/PhotoGallery/index.html">Photo Gallery</a>. 
 <br>
@@ -45,7 +45,7 @@ A competition focuses on quantitative trading algorithms, requiring participants
  <img src="https://hzempire.github.io/images/Semrecon.png" style="float:left; margin-right:30px;" width="130" height="130" alt="markdown">
 <p style="font: sans-serif; font-size: 16px;">
 Semantic Reconstruction, <a href="https://gradsch.hku.hk/news_and_events/news_and_future_events/summer-research-programme-2023">Summer Research</a>, 2023.<br>
-Supervised by Dr. Hengshuang Zhao<br>
+Supervised by Prof. Hengshuang Zhao<br>
 </p>
 <p style="font: arial; font-size: 15px;">
 A novel framework that integrates 2D features with RGBD frames and subsequently fuses these 2D features into 3D features to enhance the performance of reconstruction.
