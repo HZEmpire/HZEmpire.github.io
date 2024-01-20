@@ -14,7 +14,7 @@ Hi, I am a Year-4 Undergraduate student in the Department of Computer Science at
 My research interests include Machine Learning, Computer Vision, Data Science, and General Artificial Intelligence. In addition, I have a strong passion for photography, welcome to visit my <a href="https://hzempire.github.io/PhotoGallery/index.html">Photo Gallery</a>. 
 <br>
 <br>
-<b>I'm looking for MSc opportunities in Computer Science.</b> Feel free to contact me if you have any relevant opportunities or suggestions.
+<b>I'm looking for thesis based MSc opportunities in Computer Science.</b> Feel free to contact me if you have any relevant opportunities or suggestions.
 
 ## Publications
 <div style="display:inline-block; border:2px; margin:10px;">
