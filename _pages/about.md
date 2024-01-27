@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Meet Haozhou"
+excerpt: "About Haozhou"
 author_profile: true
 redirect_from: 
   - /about/
