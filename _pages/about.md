@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
 Hi, I am a Year-4 Undergraduate student in the Department of Computer Science at the [University of Hong Kong](https://www.hku.hk/). Currently I served as a Research Assistant working on the COVID-19 analysis & Disease Prevention System project under the supervision of Prof. [Eric Schuldenfrei](https://www.arch.hku.hk/staff/arch/schuldenfrei-eric-h/) and Prof. [Hayden Kwok-Hay So](https://www.eee.hku.hk/~hso/). Previously I worked with Prof. [Hengshuang Zhao](https://hszhao.github.io/) on Scene Reconstruction and 3D Vision. I am also a member of the [HKU Astar Team](https://innoacademy.engg.hku.hk/robomaster-ai5/) responsible for the Vision Algorithm design.
 <br>
 My research interests include Machine Learning, Computer Vision, Data Science, and General Artificial Intelligence. In addition, I have a strong passion for photography, welcome to visit my <a href="https://hzempire.github.io/PhotoGallery/index.html">Photo Gallery</a>. 
