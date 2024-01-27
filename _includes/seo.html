@@ -7,7 +7,7 @@
 {% assign seo_url = seo_url | default: site.github.url %}
 
 {% if page.title %}
-  {% if page.title == "About Haozhou" %}
+  {% if page.title == "About me" %}
     {% assign seo_title = site.title | append: " " | append: site.title_separator | append: " " | append: "Homepage" %}
   {% else %}
     {% assign seo_title = site.title | append: " " | append: site.title_separator | append: " " | append: page.title %}
