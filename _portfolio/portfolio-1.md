@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Miami Hong Kong Showdown"
+excerpt: "A warm-up for the former Barcelona greats, but a disappointing performance on the field.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

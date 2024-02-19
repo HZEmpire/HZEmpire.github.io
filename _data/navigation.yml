@@ -14,14 +14,14 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
-  - title: "Resume"
-    url: "http://hzempire.github.io/files/Haozhou2023.pdf"
   
   - title: "HK_Weather"
-    url: "https://hzempire.github.io/HKWeather/HK.html"
+    url: "/HKWeather/HK.html"
 
   - title: "Photo Gallery"
-    url: "/https://hzempire.github.io/PhotoGallery/index.html"
+    url: "/PhotoGallery/index.html"
+
+  - title: "Resume"
+    url: "/files/Haozhou2023.pdf"
   #- title: "Guide"
   #  url: /markdown/
