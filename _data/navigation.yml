@@ -9,7 +9,7 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Blog"
     url: /portfolio/
         
   #- title: "Blog Posts"
@@ -18,5 +18,10 @@ main:
   - title: "Resume"
     url: "http://hzempire.github.io/files/Haozhou2023.pdf"
   
+  - title: "HK_Weather"
+    url: "https://hzempire.github.io/HKWeather/HK.html"
+
+  - title: "Photo Gallery"
+    url: "/https://hzempire.github.io/PhotoGallery/index.html"
   #- title: "Guide"
   #  url: /markdown/

@@ -66,8 +66,3 @@ Previously I had wonderful internships at the following companies:
 Thanks for meeting so many talented people and learning so much from them.
 
 ## Site Visitors
-<p><center>
-  <div id="clustrmaps-widget" style="width:40%">
-    <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=4n1sWANqlj2KEePDk-ZBYqExGxMHyugRbEaaHOwKznk&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
-  </div>        
-</center></p>
