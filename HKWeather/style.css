@@ -56,7 +56,7 @@ body {
 .container > div {
     border-radius: 5px;
     border: transparent;
-    box-shadow: 3px 3px 1px  grey;
+    box-shadow: 3px 3px 1px  #80808066;
 }
 
 h2 {
@@ -168,7 +168,7 @@ select{
 
 /* Settings for Second block */
 #myloc{
-    background-color: hwb(160 85% 2% / 80%);
+    background-color: hwb(160 85% 2% / 60%);
 }
 
 #myloc .content {
@@ -186,7 +186,7 @@ select{
 
 /* Settings for Third block */
 #temp{
-    background-color: rgba(210, 248, 248, 0.8);
+    background-color: rgba(210, 248, 248, 0.6);
 }
 
 #temp .combine{
@@ -200,7 +200,7 @@ select{
 
 /* Settings for Fourth block */
 #rain{
-    background-color: rgba(255, 255, 204, 0.8);
+    background-color: rgba(255, 255, 204, 0.6);
 }
 
 #rain .combine{
@@ -214,7 +214,7 @@ select{
 
 /* Settings for Fifth block */
 #air{
-    background-color: rgba(227, 227, 227, 0.8);
+    background-color: rgba(227, 227, 227, 0.6);
 }
 
 #a_out{
@@ -234,7 +234,7 @@ select{
 
 /* Settings for Sixth block */
 #nine{
-    background-color: rgba(236, 219, 238, 0.8);
+    background-color: rgba(236, 219, 238, 0.6);
     margin-bottom: 15px;
 }
 
