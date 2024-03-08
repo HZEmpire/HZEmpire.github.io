@@ -13,13 +13,13 @@ Hi, I am a Year-4 Undergraduate student in the Department of Computer Science at
 My research interests include Machine Learning, Computer Vision, Data Science, and General Artificial Intelligence. In addition, I have a strong passion for photography, welcome to visit my <a href="https://hzempire.github.io/PhotoGallery/index.html">Photo Gallery</a>. 
 <br>
 <br>
-<b>I'm looking for thesis based MSc opportunities in Computer Science.</b> Feel free to contact me if you have any relevant opportunities or suggestions.
+<b>I'm looking for thesis based MSc / MPhil opportunities in Computer Science.</b> Feel free to contact me if you have any relevant opportunities or suggestions.
 
 ## Publications
 <div style="display:inline-block; border:2px; margin:10px;">
  <img src="https://hzempire.github.io/images/PIBS.jpg" style="float:left; margin-right:30px;" width="130" height="130" alt="markdown">
 <p style="font: sans-serif; font-size: 16px;">
-PIBS: A Multi-modal Sensor Node for Pervasive Intelligent Building Sensing, IEEE <b>In Progress</b>, 2024.<br>
+PIBS: A Multi-modal Sensor Node for Pervasive Intelligent Building Sensing <b>In Progress</b>, 2024.<br>
 Chun-Yin Lai, <b>Haozhou Xu</b>, and Hayden Kwok-Hay So
 </p>
 <p style="font: arial; font-size: 15px;">
