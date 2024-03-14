@@ -19,7 +19,8 @@ My research interests include Machine Learning, Computer Vision, Data Science, a
 <div style="display:inline-block; border:2px; margin:10px;">
  <img src="https://hzempire.github.io/images/CO2.jpg" style="float:left; margin-right:30px;" width="130" height="130" alt="markdown">
 <p style="font: sans-serif; font-size: 16px;">
-Wireless Sensor Network for Spatial Contact Tracing <b>Conference Submitted</b>, 2024.<br>
+Wireless Sensor Network for Spatial Contact Tracing<br>
+<b>Conference Submitted</b>, 2024.<br>
 Chun-Yin Lai, <b>Haozhou Xu</b>, Eric Schuldenfrei, and Hayden Kwok-Hay So
 </p>
 <p style="font: arial; font-size: 15px;">
