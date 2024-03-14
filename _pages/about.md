@@ -17,10 +17,10 @@ My research interests include Machine Learning, Computer Vision, Data Science, a
 
 ## Publications
 <div style="display:inline-block; border:2px; margin:10px;">
- <img src="https://hzempire.github.io/images/PIBS.jpg" style="float:left; margin-right:30px;" width="130" height="130" alt="markdown">
+ <img src="https://hzempire.github.io/images/CO2.jpg" style="float:left; margin-right:30px;" width="130" height="130" alt="markdown">
 <p style="font: sans-serif; font-size: 16px;">
-PIBS: A Multi-modal Sensor Node for Pervasive Intelligent Building Sensing <b>In Progress</b>, 2024.<br>
-Chun-Yin Lai, <b>Haozhou Xu</b>, and Hayden Kwok-Hay So
+Wireless Sensor Network for Spatial Contact Tracing <b>Conference Submitted</b>, 2024.<br>
+Chun-Yin Lai, <b>Haozhou Xu</b>, Eric Schuldenfrei, and Hayden Kwok-Hay So
 </p>
 <p style="font: arial; font-size: 15px;">
 An smart multi-modal sensor node detection system for indoor environmental monitoring and human activity recognition.
