@@ -21,7 +21,7 @@ My research interests include Machine Learning, Computer Vision, Data Science, a
 <p style="font: sans-serif; font-size: 16px;">
 Wireless Sensor Network for Spatial Contact Tracing<br>
 <b>Conference Submitted</b>, 2024.<br>
-Chun-Yin Lai, <b>Haozhou Xu</b>, Eric Schuldenfrei, and Hayden Kwok-Hay So
+Chun-Yin Lai*, <b>Haozhou Xu*</b>, Trinity Gao, Howard Huang, Marc Downie, Eric Schuldenfrei, and Hayden Kwok-Hay So
 </p>
 <p style="font: arial; font-size: 15px;">
 An smart multi-modal sensor node detection system for indoor environmental monitoring and human activity recognition.
