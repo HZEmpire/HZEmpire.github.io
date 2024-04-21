@@ -20,7 +20,7 @@ My research interests include Machine Learning, Computer Vision, Data Science, a
  <img src="https://hzempire.github.io/images/CO2.jpg" style="float:left; margin-right:30px;" width="130" height="130" alt="markdown">
 <p style="font: sans-serif; font-size: 16px;">
 Wireless Sensor Network for Spatial Contact Tracing<br>
-<b>Conference Submitted</b>, 2024.<br>
+<b>ACM Conference Submitted</b>, 2024.<br>
 Chun-Yin Lai*, <b>Haozhou Xu*</b>, Trinity Gao, Howard Huang, Marc Downie, Eric Schuldenfrei, and Hayden Kwok-Hay So
 </p>
 <p style="font: arial; font-size: 15px;">
@@ -67,6 +67,7 @@ Previously I had wonderful internships at the following companies:
 Thanks for meeting so many talented people and learning so much from them.
 
 ## Site Visitors
+Check recent visitors of my site:
 <p><center>
   <div id="clustrmaps-widget" style="width:40%">
     <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=4n1sWANqlj2KEePDk-ZBYqExGxMHyugRbEaaHOwKznk&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
