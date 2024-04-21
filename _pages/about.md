@@ -67,7 +67,7 @@ Previously I had wonderful internships at the following companies:
 Thanks for meeting so many talented people and learning so much from them.
 
 ## Site Visitors
-Check recent visitors of my site:
+Check recent visitors of my site since April 24, 2024:
 <p><center>
   <div id="clustrmaps-widget" style="width:40%">
     <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=haoUtE9bKPN0fiFwH2tMg79ndKH9lOp_loINzIgej1A&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
