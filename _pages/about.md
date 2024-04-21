@@ -68,8 +68,8 @@ Thanks for meeting so many talented people and learning so much from them.
 
 ## Site Visitors
 Check recent visitors of my site:
-<p>
+<p><center>
   <div id="clustrmaps-widget" style="width:40%">
-    <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=4n1sWANqlj2KEePDk-ZBYqExGxMHyugRbEaaHOwKznk&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=haoUtE9bKPN0fiFwH2tMg79ndKH9lOp_loINzIgej1A&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
   </div>        
-</p>
+</center></p>
