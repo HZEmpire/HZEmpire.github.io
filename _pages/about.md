@@ -33,10 +33,10 @@ An smart multi-modal sensor node detection system for indoor environmental monit
  <img src="https://hzempire.github.io/images/UniLife.png" style="float:left; margin-right:30px;" width="130" height="130" alt="markdown">
 <p style="font: sans-serif; font-size: 16px;">
 <a href="https://www.unilife.quest/">UniLife - A Pesonalized Career Consulting System</a>, <a href="https://www.cs.hku.hk/programmes/final-year-projects">Undergraduate Final Year Project</a>, 2024.<br>
-Supervised by Prof. <a href="https://www.cs.hku.hk/index.php/people/academic-staff/kao">Benjamin C.M. Kao</a><br>
+Supervised by Prof. Benjamin C.M. Kao<br>
 </p>
 <p style="font: arial; font-size: 15px;">
-A Personalized Career Consulting System designed for university students, including services such as interest discovery by chating, job position recommendation, and career path planning.
+Web App designed for university students, including services such as interest discovery by chating, job position recommendation, and career path planning.
 </p>
 </div>
 
@@ -58,7 +58,7 @@ A competition focuses on quantitative trading algorithms, requiring participants
  <img src="https://hzempire.github.io/images/Semrecon.png" style="float:left; margin-right:30px;" width="130" height="130" alt="markdown">
 <p style="font: sans-serif; font-size: 16px;">
 Semantic Reconstruction, <a href="https://gradsch.hku.hk/news_and_events/news_and_future_events/summer-research-programme-2023">Summer Research</a>, 2023.<br>
-Supervised by Prof. <a href="https://hszhao.github.io/">Hengshuang Zhao</a><br>
+Supervised by Prof. Hengshuang Zhao<br>
 </p>
 <p style="font: arial; font-size: 15px;">
 A novel framework that integrates 2D features with RGBD frames and subsequently fuses these 2D features into 3D features to enhance the performance of reconstruction.
