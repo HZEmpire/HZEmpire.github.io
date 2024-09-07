@@ -12,7 +12,7 @@ Hi, I am a first year Computer Science Master student at the [University of Cali
 My research interests include Machine Learning, Computer Vision, and Reinforcement Learning related topics. In addition, I have a strong passion for photography, welcome to visit my <a href="https://hzempire.github.io/PhotoGallery/index.html">Photo Gallery</a>. 
 <br>
 <br>
-<b>I'm looking for research opportunities in the Machine Learning field. And I'm also seeking for 2025 summer industrial internship opportunities in related fields.</b> Feel free to contact me if you have any relevant opportunities or suggestions.
+I'm looking for <b>research opportunities</b> in the <b>Machine Learning</b> field. And I'm also seeking for <b>2025 summer industrial internship opportunities</b> in related fields. Feel free to contact me if you have any relevant opportunities or suggestions.
 
 ## Publications
 <div style="display:inline-block; border:2px; margin:10px;">
