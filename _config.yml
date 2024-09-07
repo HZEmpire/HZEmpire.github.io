@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Haozhou Xu (徐浩洲)"
   avatar           : "2B9A9828.jpg"
-  bio              : "Year 4 CS undergraduate and RA at HKU"
-  location         : "Hong Kong SAR"
+  bio              : "First Year MSCS student and RA at UCSD"
+  location         : "San Diego, CA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "hzxu@hku.hk"
+  email            : "xhz1@connect.hku.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

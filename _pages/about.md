@@ -7,13 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Hi, I am a Year-4 Undergraduate student in the Department of Computer Science at the [University of Hong Kong](https://www.hku.hk/). Currently I served as a Research Assistant working on the COVID-19 analysis & Disease Prevention System project under the supervision of Prof. [Eric Schuldenfrei](https://www.arch.hku.hk/staff/arch/schuldenfrei-eric-h/) and Prof. [Hayden Kwok-Hay So](https://www.eee.hku.hk/~hso/). Previously I worked with Prof. [Hengshuang Zhao](https://hszhao.github.io/) on Scene Reconstruction and 3D Vision. I am also a member of the [HKU Astar Team](https://innoacademy.engg.hku.hk/robomaster-ai5/) responsible for the Vision Algorithm design.
+Hi, I am a first year Computer Science Master student at the [University of California - San Diego](https://cse.ucsd.edu/). I recieved my bachelor's degree in Computer Science from the [University of Hong Kong](https://www.hku.hk/).  Previously I served as a Research Assistant working on the COVID-19 analysis & Disease Prevention System project under the supervision of Prof. [Eric Schuldenfrei](https://www.arch.hku.hk/staff/arch/schuldenfrei-eric-h/) and Prof. [Hayden Kwok-Hay So](https://www.eee.hku.hk/~hso/). I also spend a summer worked with Prof. [Hengshuang Zhao](https://hszhao.github.io/) on a 3D Scene Reconstruction and Segmentation project. 
 <br>
-My research interests include Machine Learning, Computer Vision, Data Science, and General Artificial Intelligence. In addition, I have a strong passion for photography, welcome to visit my <a href="https://hzempire.github.io/PhotoGallery/index.html">Photo Gallery</a>. 
+My research interests include Machine Learning, Computer Vision, and Reinforcement Learning related topics. In addition, I have a strong passion for photography, welcome to visit my <a href="https://hzempire.github.io/PhotoGallery/index.html">Photo Gallery</a>. 
 <br>
 <br>
-<b>I'm looking for thesis based MSc / MPhil opportunities in Computer Science.</b> Feel free to contact me if you have any relevant opportunities or suggestions.
+<b>I'm looking for research opportunities in the Machine Learning field. And I'm also seeking for 2025 summer industrial internship opportunities in related fields.</b> Feel free to contact me if you have any relevant opportunities or suggestions.
 
 ## Publications
 <div style="display:inline-block; border:2px; margin:10px;">
@@ -65,6 +64,19 @@ A novel framework that integrates 2D features with RGBD frames and subsequently 
 </p>
 </div>
 
+<br>
+
+<div style="display:inline-block; border:2px; margin:10px;">
+ <img src="https://hzempire.github.io/images/HKUAstar.jpg" style="float:left; margin-right:30px;" width="130" height="130" alt="markdown">
+<p style="font: sans-serif; font-size: 16px;">
+<a href="https://innoacademy.engg.hku.hk/robomaster-ai5/">HKU ROBOMASTER AI Challenge</a>, 2022.<br>
+Sponsored by Prof. Jia Pan<br>
+</p>
+<p style="font: arial; font-size: 15px;">
+We present a competition-level solution to our robotics operates on a ROS (Robot Operating System)-based codebase. The codebase involves atomic operations on detection, decision, motion planning, etc.
+</p>
+</div>
+
 ## Teaching
 I served as a Teaching Assistant for the following courses:
 - 2022-2023 Fall: [COMP 2113A Programming Technologies](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2022/comp2113.html), instructed by Dr. [Chim, Tat Wing](https://www.cs.hku.hk/index.php/people/academic-staff/twchim)
@@ -73,10 +85,10 @@ I served as a Teaching Assistant for the following courses:
 Feel free to contact me by email if you are students of the above courses.
 
 ## Working
-Previously I had wonderful internships at the following companies:
+Previously I had wonderful internships at the following institutions:
 - 2022 Summer: [AsiaInfo Technologies](https://www.asiainfo.com/en_us/index.html), as a Software Engineer Intern
 - 2023 Summer: [University of Hong Kong](https://www.hku.hk/), as a Research Assistant at the [Department of Computer Science](https://www.cs.hku.hk/)
-
+- 2024 Summer: [University of Hong Kong](https://www.hku.hk/), as a Research Assistant at the [Faculty of Architecture](https://www.arch.hku.hk/)
 Thanks for meeting so many talented people and learning so much from them.
 
 ## Site Visitors
