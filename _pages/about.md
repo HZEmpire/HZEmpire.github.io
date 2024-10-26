@@ -14,14 +14,14 @@ I recieved my bachelor's degree from the [University of Hong Kong](https://www.h
 My research interests include Machine Learning, Computer Vision, and Learning Theory. In addition, I have a strong passion for photography, welcome to visit my <a href="https://hzempire.github.io/PhotoGallery/index.html">Photo Gallery</a>. 
 <br>
 <br>
-I'm looking for <b>2025 summer internship opportunities</b> in the <b>Quantitative Anlysis/Machine Learning</b> field. Feel free to contact me if you have any relevant opportunities or suggestions.
+I'm looking for <b>2025 summer internship opportunities</b> in the <b>Quantitative Anlysis / Machine Learning</b> fields. Feel free to contact me if you have any relevant opportunities or suggestions.
 
 ## Publications
 <div style="display:inline-block; border:2px; margin:10px;">
  <img src="https://hzempire.github.io/images/CO2.jpg" style="float:left; margin-right:30px;" width="130" height="130" alt="markdown">
 <p style="font: sans-serif; font-size: 16px;">
 Wireless Sensor Network for Spatial Contact Tracing<br>
-<b>ACM Conference Submitted</b>, 2024.<br>
+<b>ACM Mobicom Submitted</b>, 2024.<br>
 Chun-Yin Lai*, <b>Haozhou Xu*</b>, Trinity Gao, Howard Huang, Marc Downie, Eric Schuldenfrei, and Hayden Kwok-Hay So
 </p>
 <p style="font: arial; font-size: 15px;">
