@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am a first year Computer Science Master student at the [University of California - San Diego](https://cse.ucsd.edu/). I'm currently a research assistant at Prof. [Zhiting Hu](https://zhiting.ucsd.edu/index.html)'s lab, working on the <b>Concept Learning</b> project.
+Hi, I am a first year Computer Science Master student at the [University of California - San Diego](https://cse.ucsd.edu/). I'm currently working with Prof. [Yian Ma](https://sites.google.com/view/yianma/home) on a project related to <b>Active Learning</b>.
 <br>
 I recieved my bachelor's degree from the [University of Hong Kong](https://www.hku.hk/).  Previously I worked on the COVID-19 analysis & Disease Prevention System project under the supervision of Prof. [Eric Schuldenfrei](https://www.arch.hku.hk/staff/arch/schuldenfrei-eric-h/) and Prof. [Hayden Kwok-Hay So](https://www.eee.hku.hk/~hso/). I also spend a summer worked with Prof. [Hengshuang Zhao](https://hszhao.github.io/) on a 3D Scene Reconstruction and Segmentation project. 
 <br>
-My research interests include Machine Learning, Computer Vision, and Learning Theory. In addition, I have a strong passion for photography, welcome to visit my <a href="https://hzempire.github.io/PhotoGallery/index.html">Photo Gallery</a>. 
+My research interests include Learning Theory, Empirical Reinforcement Learning. In addition, I have a strong passion for photography, welcome to visit my <a href="https://hzempire.github.io/PhotoGallery/index.html">Photo Gallery</a>. 
 <br>
 <br>
-I'm looking for <b>2025 summer internship opportunities</b> in the <b>Quantitative Anlysis / Machine Learning</b> fields. Feel free to contact me if you have any relevant opportunities or suggestions.
+I'm looking for <b>2025 fall internship opportunities</b> in the <b>Quantitative Anlysis / Machine Learning</b> fields remotely / at San Diego. Feel free to contact me if you have any relevant opportunities or suggestions.
 
 ## Publications
 <div style="display:inline-block; border:2px; margin:10px;">
