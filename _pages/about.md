@@ -14,15 +14,15 @@ I recieved my bachelor's degree from the [University of Hong Kong](https://www.h
 My research interests include Learning Theory, Empirical Reinforcement Learning. In addition, I have a strong passion for photography, welcome to visit my <a href="https://hzempire.github.io/PhotoGallery/index.html">Photo Gallery</a>. 
 <br>
 <br>
-I'm looking for <b>2025 fall internship opportunities</b> in the <b>Quantitative Anlysis / Machine Learning</b> fields remotely / at San Diego. Feel free to contact me if you have any relevant opportunities or suggestions.
+I'm looking for <b>2025-26 new grad opportunities</b> in the <b>Quantitative Analysis / Machine Learning / Software Engineering</b> fields. Feel free to contact me if you have any relevant opportunities or suggestions.
 
 ## Publications
 <div style="display:inline-block; border:2px; margin:10px;">
  <img src="https://hzempire.github.io/images/CO2.jpg" style="float:left; margin-right:30px;" width="130" height="130" alt="markdown">
 <p style="font: sans-serif; font-size: 16px;">
-Wireless Sensor Network for Spatial Contact Tracing<br>
-<b>ACM Mobicom Submitted</b>, 2024.<br>
-Chun-Yin Lai*, <b>Haozhou Xu*</b>, Trinity Gao, Howard Huang, Marc Downie, Eric Schuldenfrei, and Hayden Kwok-Hay So
+<a href="https://doi.org/10.1016/j.jobe.2025.113751" target="_blank" rel="noopener noreferrer">Infrastructural occupancy analytics with bluetooth low energy enabled smart lighting system and spatial carbon dioxide sensing</a><br>
+<b>Journal of Building Engineering</b>, 2025.<br>
+Chun Yin Lai, Marc Downie, Eric Schuldenfrei, <b>Haozhou Xu</b>, Trinity Gao, Howard Huang, Hayden Kwok-Hay So
 </p>
 <p style="font: arial; font-size: 15px;">
 An smart multi-modal sensor node detection system for indoor environmental monitoring and human activity recognition.
