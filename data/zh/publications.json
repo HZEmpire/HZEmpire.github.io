@@ -1,0 +1,18 @@
+{
+  "nav_label": "出版物",
+  "title": "📑 出版物",
+  "publications": [
+    {
+      "title": "占位标题",
+      "conference": "占位会议",
+      "authors": "作者甲, 作者乙",
+      "description": "这里是论文的占位描述。",
+      "links": [
+        {
+          "type": "论文",
+          "url": "https://www.bilibili.com/"
+        }
+      ]
+    }
+  ]
+}

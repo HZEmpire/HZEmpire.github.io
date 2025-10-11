@@ -1,0 +1,12 @@
+{
+  "cards": [
+    {
+      "title": "Card One",
+      "description": "This is a placeholder card."
+    },
+    {
+      "title": "Card Two",
+      "description": "Another placeholder card."
+    }
+  ]
+}

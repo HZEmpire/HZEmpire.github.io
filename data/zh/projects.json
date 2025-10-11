@@ -1,0 +1,18 @@
+{
+  "nav_label": "项目",
+  "title": "⚙️ 项目",
+  "projects": [
+    {
+      "title": "占位项目",
+      "date": "2025.01",
+      "authors": "贡献者甲, 贡献者乙",
+      "description": "这里是项目的占位描述。",
+      "links": [
+        {
+          "type": "仓库",
+          "url": "https://www.bilibili.com/"
+        }
+      ]
+    }
+  ]
+}

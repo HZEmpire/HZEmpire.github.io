@@ -1,0 +1,16 @@
+{
+  "wordcloud": [
+    {
+      "text": "Innovation",
+      "weight": 30
+    },
+    {
+      "text": "Rigor",
+      "weight": 20
+    },
+    {
+      "text": "Openness",
+      "weight": 25
+    }
+  ]
+}

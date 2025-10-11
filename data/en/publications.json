@@ -1,0 +1,38 @@
+{
+  "nav_label": "Publications",
+  "title": "📑 Publications",
+  "publications": [
+    {
+      "title": "Placeholder Title",
+      "conference": "Placeholder Venue",
+      "authors": "Author A, Author B",
+      "date": "2024",
+      "description": "Placeholder description for a publication.",
+      "highlights": [
+        "Key insight about the proposed method.",
+        "Benchmark improvement over prior art."
+      ],
+      "tags": [
+        "AI"
+      ],
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://www.bilibili.com/",
+          "icon": "./media/link_icon/demo.svg"
+        },
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/1234.5678",
+          "icon": "./media/link_icon/demo.svg"
+        },
+        {
+          "type": "Video",
+          "url": "https://youtube.com/watch?v=placeholder",
+          "icon": "./media/link_icon/demo.svg",
+          "dark_icon": "./media/link_icon/pdf.svg"
+        }
+      ]
+    }
+  ]
+}

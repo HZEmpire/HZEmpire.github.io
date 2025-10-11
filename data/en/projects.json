@@ -1,0 +1,33 @@
+{
+  "nav_label": "Projects",
+  "title": "⚙️ Projects",
+  "projects": [
+    {
+      "title": "Placeholder Project",
+      "date": "2025.01",
+      "authors": "Contributor A, Contributor B",
+      "description": "Placeholder description for a project.",
+      "stack": [
+        "Python",
+        "React"
+      ],
+      "tags": [
+        "Demo"
+      ],
+      "links": [
+        {
+          "type": "Repo",
+          "url": "https://www.bilibili.com/"
+        },
+        {
+          "type": "Demo",
+          "url": "https://example.com/project-demo"
+        },
+        {
+          "type": "Docs",
+          "url": "https://docs.example.com/project"
+        }
+      ]
+    }
+  ]
+}

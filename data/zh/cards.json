@@ -1,0 +1,12 @@
+{
+  "cards": [
+    {
+      "title": "卡片一",
+      "description": "这是一个占位卡片。"
+    },
+    {
+      "title": "卡片二",
+      "description": "另一个占位卡片。"
+    }
+  ]
+}

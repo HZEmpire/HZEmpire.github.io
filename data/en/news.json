@@ -1,0 +1,14 @@
+{
+  "nav_label": "News",
+  "title": "🔥 News",
+  "news": [
+    {
+      "date": "2025.01.01",
+      "content": "Placeholder news item."
+    },
+    {
+      "date": "2025.02.01",
+      "content": "Another placeholder news item."
+    }
+  ]
+}

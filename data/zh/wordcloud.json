@@ -1,0 +1,16 @@
+{
+  "wordcloud": [
+    {
+      "text": "创新",
+      "weight": 30
+    },
+    {
+      "text": "严谨",
+      "weight": 20
+    },
+    {
+      "text": "开放",
+      "weight": 25
+    }
+  ]
+}
