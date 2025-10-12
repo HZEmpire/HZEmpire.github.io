@@ -1,18 +1,68 @@
 {
-  "nav_label": "项目",
-  "title": "⚙️ 项目",
+  "nav_label": "精选项目",
+  "title": "精选项目",
   "projects": [
     {
-      "title": "占位项目",
-      "date": "2025.01",
-      "authors": "贡献者甲, 贡献者乙",
-      "description": "这里是项目的占位描述。",
+      "title": "UniLife - 个性化职业咨询系统",
+      "subtitle": "本科毕业设计项目",
+      "date": "2024",
+      "authors": "指导教师：Benjamin C.M. Kao 教授",
+      "description": "为大学生设计的网络应用，提供通过聊天进行兴趣发现、工作岗位推荐和职业路径规划等服务。",
+      "image": "./images/UniLife.png",
       "links": [
         {
-          "type": "仓库",
-          "url": "https://www.bilibili.com/"
+          "type": "网站",
+          "url": "https://www.unilife.quest/"
+        },
+        {
+          "type": "项目",
+          "url": "https://www.cs.hku.hk/programmes/final-year-projects"
         }
-      ]
+      ],
+      "tags": ["网页开发", "人工智能", "职业规划"]
+    },
+    {
+      "title": "CASH 算法交易挑战赛 2023",
+      "subtitle": "最佳策略设计奖（第1名）",
+      "date": "2023",
+      "description": "专注于量化交易算法的竞赛，要求参赛者设计并实施一个算法，进行为期2个月的香港股票实时交易模拟。",
+      "image": "./images/cashalgo.jpg",
+      "links": [
+        {
+          "type": "竞赛",
+          "url": "https://algochallenge.org/hkequity2023/"
+        }
+      ],
+      "tags": ["量化交易", "算法", "金融"]
+    },
+    {
+      "title": "语义重建",
+      "subtitle": "暑期研究",
+      "date": "2023",
+      "authors": "指导教师：赵恒爽 教授",
+      "description": "一个新颖的框架，将2D特征与RGBD帧整合，随后将这些2D特征融合为3D特征，以提升重建性能。",
+      "image": "./images/Semrecon.png",
+      "links": [
+        {
+          "type": "项目",
+          "url": "https://gradsch.hku.hk/news_and_events/news_and_future_events/summer-research-programme-2023"
+        }
+      ],
+      "tags": ["3D重建", "计算机视觉", "深度学习"]
+    },
+    {
+      "title": "香港大学 ROBOMASTER AI 挑战赛",
+      "date": "2022",
+      "authors": "赞助：潘佳 教授",
+      "description": "我们提出了一个竞赛级别的解决方案，机器人运行在基于ROS（机器人操作系统）的代码库上。该代码库涉及检测、决策、运动规划等原子操作。",
+      "image": "./images/HKUAstar.jpg",
+      "links": [
+        {
+          "type": "竞赛",
+          "url": "https://innoacademy.engg.hku.hk/robomaster-ai5/"
+        }
+      ],
+      "tags": ["机器人", "ROS", "人工智能"]
     }
   ]
 }

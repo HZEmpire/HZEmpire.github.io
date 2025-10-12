@@ -4,9 +4,24 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Academic Template</title>
+  <title>Haozhou Xu</title>
   <meta name="author" content="Phospheneser">
   <meta name="copyright" content="© 2024 Phospheneser. All rights reserved.">
+
+  <!-- Favicons and Icons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="./images/apple-touch-icon.png?v=M44lzPylqQ">
+  <link rel="icon" type="image/png" href="./images/favicon-32x32.png?v=M44lzPylqQ" sizes="32x32">
+  <link rel="icon" type="image/png" href="./images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
+  <link rel="icon" type="image/png" href="./images/android-chrome-192x192.png?v=M44lzPylqQ" sizes="192x192">
+  <link rel="manifest" href="./images/manifest.json?v=M44lzPylqQ">
+  <link rel="mask-icon" href="./images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#5bbad5">
+  <link rel="shortcut icon" type="image/png" href="./images/favicon-32x32.png?v=M44lzPylqQ">
+  <link rel="shortcut icon" href="./images/favicon.ico?v=M44lzPylqQ" type="image/x-icon" />
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="./images/site-144x144.png?v=M44lzPylqQ">
+  <meta name="msapplication-config" content="./images/browserconfig.xml?v=M44lzPylqQ">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="Personal Website of Haozhou Xu">
 
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-R2ZLMKHR2E"></script>
@@ -55,7 +70,7 @@
 <body>
 
   <div id="background-container"
-    style="background-image:linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),url('./media/occupacy.jpg');background-size: cover; background-position: center;padding-top: 52px; padding-bottom: 20px; margin-top: -52px; width: 100vw; position: relative;">
+    style="background-image:linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),url('./images/Background.jpg');background-size: cover; background-position: center;padding-top: 52px; padding-bottom: 20px; margin-top: -52px; width: 100vw; position: relative;">
     <nav class="navbar is-primary">
       <div class="navbar-brand">
         <a class="navbar-item" href="#" id="navbar-home" onclick="goHome()">
@@ -336,7 +351,7 @@
     if (!key || !backgrounds[key]) key = 'default';
     const defaultBg = backgrounds.default || {};
     const bgConfig = backgrounds[key] || {};
-    const lightImage = bgConfig.light || defaultBg.light || './media/occupacy.jpg';
+    const lightImage = bgConfig.light || defaultBg.light || './images/Background.jpg';
     const darkImage = bgConfig.dark || defaultBg.dark || '';
 
     let background;
@@ -372,6 +387,24 @@
       }
 
       const container = document.querySelector(`#${section.id}`);
+
+      if (section.id === 'site-visitors') {
+        updateElement('#site-visitors-title', data.title || 'Site Visitors');
+        const contentDiv = container.querySelector('.about-texts');
+        if (contentDiv && data.show_widget) {
+          const wrapper = document.createElement('div');
+          wrapper.style.width = '40%';
+          wrapper.style.margin = '0 auto';
+          const script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.id = 'mapmyvisitors';
+          script.src = 'https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=4n1sWANqlj2KEePDk-ZBYqExGxMHyugRbEaaHOwKznk&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff';
+          wrapper.appendChild(script);
+          contentDiv.innerHTML = '';
+          contentDiv.appendChild(wrapper);
+        }
+        return;
+      }
       if (!container) return;
       const contentDiv = container.querySelector('.about-texts');
       if (!contentDiv) return;
@@ -1126,7 +1159,7 @@
     });
     // 按 sections 生成
     metaConfig.sections.forEach(sec => {
-      if (!sec.enabled) return;
+      if (!sec.enabled || sec.showInNav === false) return;
       const a = document.createElement('a');
       a.className = 'navbar-item';
       a.id = `navbar-${sec.id}`;
@@ -1135,6 +1168,19 @@
       a.innerHTML = label;
       navbarEnd.insertBefore(a, document.getElementById('language-dropdown'));
     });
+    // 添加 custom_links
+    if (metaConfig.custom_links && Array.isArray(metaConfig.custom_links)) {
+      metaConfig.custom_links.forEach(link => {
+        const a = document.createElement('a');
+        a.className = 'navbar-item';
+        a.href = link.url;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        const label = typeof link.label === 'object' ? (link.label[currentLang] || link.label.en) : link.label;
+        a.innerHTML = label;
+        navbarEnd.insertBefore(a, document.getElementById('language-dropdown'));
+      });
+    }
   }
 
   function generateCards(cardsList) {

@@ -1,0 +1,24 @@
+{
+  "nav_label": "Working",
+  "title": "Work Experience",
+  "items": [
+    {
+      "date": "2024 Summer",
+      "title": "Research Assistant",
+      "org": "University of Hong Kong - Faculty of Architecture",
+      "description": "Research Assistant at the <a href=\"https://www.arch.hku.hk/\" target=\"_blank\" rel=\"noopener noreferrer\">Faculty of Architecture</a>"
+    },
+    {
+      "date": "2023 Summer",
+      "title": "Research Assistant",
+      "org": "University of Hong Kong - Department of Computer Science",
+      "description": "Research Assistant at the <a href=\"https://www.cs.hku.hk/\" target=\"_blank\" rel=\"noopener noreferrer\">Department of Computer Science</a>"
+    },
+    {
+      "date": "2022 Summer",
+      "title": "Software Engineer Intern",
+      "org": "AsiaInfo Technologies",
+      "description": "Software Engineer Intern at <a href=\"https://www.asiainfo.com/en_us/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">AsiaInfo Technologies</a>"
+    }
+  ]
+}

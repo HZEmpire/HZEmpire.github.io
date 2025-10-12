@@ -28,7 +28,7 @@ A configuration-first academic homepage template with unified section rendering,
      "navbar": {"showLanguageDropdown": true},
      "home": {"showHero": true, "avatar": "./media/personal.jpg"},
      "backgrounds": {
-       "default": {"light": "./media/occupacy.jpg"}
+       "default": {"light": "./images/Background.jpg"}
      },
      "itemTypes": {
        "news": {"requiredKeys": ["date", "content"]},

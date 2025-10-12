@@ -25,25 +25,39 @@
   },
   "blogs": [
     {
-      "slug": "launching-the-research-blog",
-      "title": "Why This Blog Exists",
-      "summary": "Setting the tone for longer-form updates and how they complement the rest of the site.",
-      "post_time": "2025-01-05 09:00",
-      "author": "Joshua Xu",
+      "title": "HK Weather",
+      "summary": "Real-time Hong Kong weather monitoring and forecast application with interactive visualizations and detailed meteorological data.",
+      "image": "./images/Weather.png",
+      "post_time": "2024-08-15",
+      "author": "Haozhou Xu",
       "tags": [
-        "Meta",
-        "Writing"
+        "Web Development",
+        "Data Visualization",
+        "Weather"
+      ],
+      "links": [
+        {
+          "type": "Website",
+          "url": "./HKWeather/HK.html"
+        }
       ]
     },
     {
-      "slug": "robotics-field-notes",
-      "title": "Field Notes: Indoor Avoidance Trials",
-      "summary": "Notes from week three inside the test arena, smoothing controllers and taming a moody GPU.",
-      "post_time": "2025-01-12 14:30",
-      "author": "Joshua Xu",
+      "title": "Photo Gallery",
+      "summary": "A personal photography portfolio showcasing travel and landscape photography from around the world.",
+      "image": "./images/photogallery.png",
+      "post_time": "2024-07-20",
+      "author": "Haozhou Xu",
       "tags": [
-        "Robotics",
-        "Field Notes"
+        "Photography",
+        "Portfolio",
+        "Art"
+      ],
+      "links": [
+        {
+          "type": "Gallery",
+          "url": "./PhotoGallery/index.html"
+        }
       ]
     }
   ]

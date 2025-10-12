@@ -2,13 +2,11 @@
     "defaultLanguage": "en",
     "availableLanguages": [
         "en",
-        "zh",
-        "jp"
+        "zh"
     ],
     "languageLabels": {
         "en": "English",
-        "zh": "中文",
-        "jp": "日本語"
+        "zh": "中文"
     },
     "navbar": {
         "showLanguageDropdown": true
@@ -16,11 +14,11 @@
     "home": {
         "showHero": true,
         "showWordCloud": true,
-        "avatar": "./media/personal.jpg"
+        "avatar": "./images/2B9A9828.jpg"
     },
     "backgrounds": {
         "default": {
-            "light": "./media/occupacy.jpg"
+            "light": "./images/Background.jpg"
         }
     },
     "itemTypes": {
@@ -44,9 +42,18 @@
             "templateOptions": {
                 "mediaField": "image",
                 "titleField": "title",
-                "subtitleFields": ["conference"],
-                "metaFields": ["authors", "date"],
-                "descriptionFields": ["description", "abstract", "content"],
+                "subtitleFields": [
+                    "conference"
+                ],
+                "metaFields": [
+                    "authors",
+                    "date"
+                ],
+                "descriptionFields": [
+                    "description",
+                    "abstract",
+                    "content"
+                ],
                 "detailsField": "highlights",
                 "tagsField": "tags",
                 "placeholderLabel": "Publication Preview"
@@ -65,9 +72,17 @@
             "templateOptions": {
                 "mediaField": "image",
                 "titleField": "title",
-                "subtitleFields": ["date"],
-                "metaFields": ["authors"],
-                "descriptionFields": ["description", "summary", "content"],
+                "subtitleFields": [
+                    "date"
+                ],
+                "metaFields": [
+                    "authors"
+                ],
+                "descriptionFields": [
+                    "description",
+                    "summary",
+                    "content"
+                ],
                 "detailsField": "stack",
                 "tagsField": "tags",
                 "placeholderLabel": "Project Preview"
@@ -85,14 +100,26 @@
             "templateOptions": {
                 "mediaField": "image",
                 "titleField": "title",
-                "subtitleFields": ["subtitle"],
-                "metaFields": ["post_time", "author"],
+                "subtitleFields": [
+                    "subtitle"
+                ],
+                "metaFields": [
+                    "post_time",
+                    "author"
+                ],
                 "badgeFields": [],
                 "badgeSeparator": " · ",
-                "descriptionFields": ["summary", "excerpt", "description", "content"],
+                "descriptionFields": [
+                    "summary",
+                    "excerpt",
+                    "description",
+                    "content"
+                ],
                 "tagsField": "tags",
                 "placeholderLabel": "Media Placeholder",
-                "primaryLink": { "type": "blogSlug" },
+                "primaryLink": {
+                    "type": "blogSlug"
+                },
                 "actions": [
                     {
                         "type": "readMore",
@@ -119,6 +146,7 @@
         {
             "id": "about",
             "enabled": true,
+            "showInNav": true,
             "dataSource": "about",
             "background": "default",
             "singlePage": {
@@ -141,6 +169,7 @@
         {
             "id": "news",
             "enabled": true,
+            "showInNav": false,
             "itemType": "news",
             "dataSource": "news",
             "background": "default",
@@ -155,9 +184,6 @@
             "multiPage": {
                 "enabled": true,
                 "layout": "list",
-                "plugins": [
-                    "search"
-                ],
                 "options": {
                     "columns": 1,
                     "gap": "normal"
@@ -167,6 +193,7 @@
         {
             "id": "publications",
             "enabled": true,
+            "showInNav": true,
             "itemType": "publication",
             "dataSource": "publications",
             "background": "default",
@@ -194,6 +221,7 @@
         {
             "id": "projects",
             "enabled": true,
+            "showInNav": false,
             "itemType": "project",
             "dataSource": "projects",
             "background": "default",
@@ -219,10 +247,35 @@
             }
         },
         {
-            "id": "academic-service",
+            "id": "teaching",
             "enabled": true,
-            "dataSource": "academic_service",
+            "showInNav": false,
             "itemType": "timeline",
+            "dataSource": "teaching",
+            "background": "default",
+            "singlePage": {
+                "enabled": true,
+                "layout": "list",
+                "options": {
+                    "columns": 1,
+                    "gap": "normal"
+                }
+            },
+            "multiPage": {
+                "enabled": true,
+                "layout": "list",
+                "options": {
+                    "columns": 1,
+                    "gap": "normal"
+                }
+            }
+        },
+        {
+            "id": "working",
+            "enabled": true,
+            "showInNav": true,
+            "itemType": "timeline",
+            "dataSource": "working",
             "background": "default",
             "singlePage": {
                 "enabled": true,
@@ -244,6 +297,7 @@
         {
             "id": "blogs",
             "enabled": true,
+            "showInNav": true,
             "itemType": "blog",
             "dataSource": "blogs",
             "background": "default",
@@ -266,33 +320,80 @@
                     "gap": "normal"
                 }
             }
+        },
+        {
+            "id": "site-visitors",
+            "enabled": true,
+            "showInNav": false,
+            "dataSource": "site_visitors",
+            "background": "default",
+            "singlePage": {
+                "enabled": true,
+                "layout": "custom",
+                "options": {
+                    "columns": 1,
+                    "gap": "normal"
+                }
+            },
+            "multiPage": {
+                "enabled": true,
+                "layout": "custom",
+                "options": {
+                    "columns": 1,
+                    "gap": "normal"
+                }
+            }
         }
     ],
     "socials": [
         {
             "icon": "fab fa-github",
-            "url": "#"
+            "url": "https://github.com/HZEmpire"
         },
         {
-            "icon": "fas fa-graduation-cap",
-            "url": "#"
+            "icon": "fab fa-linkedin",
+            "url": "https://www.linkedin.com/in/haozhou-xu-858062288"
         },
         {
-            "icon": "fab fa-twitter",
-            "url": "#"
+            "icon": "fab fa-instagram",
+            "url": "https://www.instagram.com/haozhou_empire"
         },
         {
             "icon": "fas fa-envelope",
-            "url": "#"
+            "url": "mailto:xhz1@connect.hku.hk"
         }
     ],
     "emptyStates": {
         "news": "No news available.",
         "publications": "No publications yet.",
         "projects": "No projects available.",
-        "blogs": "No blog posts yet.",
-        "academic-service": "No academic service records yet."
+        "teaching": "No teaching records yet.",
+        "working": "No work experience records yet.",
+        "blogs": "No blog posts yet."
     },
+    "custom_links": [
+        {
+            "label": {
+                "en": "HK Weather",
+                "zh": "香港天气"
+            },
+            "url": "./HKWeather/HK.html"
+        },
+        {
+            "label": {
+                "en": "Photo Gallery",
+                "zh": "照片画廊"
+            },
+            "url": "./PhotoGallery/index.html"
+        },
+        {
+            "label": {
+                "en": "Resume",
+                "zh": "简历"
+            },
+            "url": "./files/Haozhou2025.pdf"
+        }
+    ],
     "themes": {
         "primary": "#3273dc",
         "secondary": "#23d160",

@@ -1,16 +1,23 @@
 {
-  "nav_label": "出版物",
-  "title": "📑 出版物",
+  "nav_label": "发表论文",
+  "title": "发表论文",
   "publications": [
     {
-      "title": "占位标题",
-      "conference": "占位会议",
-      "authors": "作者甲, 作者乙",
-      "description": "这里是论文的占位描述。",
+      "title": "基于蓝牙低功耗智能照明系统和空间二氧化碳感测的基础设施占用分析",
+      "conference": "建筑工程学报",
+      "authors": "Chun Yin Lai, Marc Downie, Eric Schuldenfrei, <strong>徐浩洲</strong>, Trinity Gao, Howard Huang, Hayden Kwok-Hay So",
+      "date": "2025",
+      "description": "一种用于室内环境监测和人类活动识别的智能多模态传感器节点检测系统。",
+      "image": "https://hzempire.github.io/images/CO2.jpg",
+      "tags": [
+        "物联网",
+        "机器学习",
+        "智能建筑"
+      ],
       "links": [
         {
           "type": "论文",
-          "url": "https://www.bilibili.com/"
+          "url": "https://doi.org/10.1016/j.jobe.2025.113751"
         }
       ]
     }

@@ -1,33 +1,68 @@
 {
-  "nav_label": "Projects",
-  "title": "⚙️ Projects",
+  "nav_label": "Selected Projects",
+  "title": "Selected Projects",
   "projects": [
     {
-      "title": "Placeholder Project",
-      "date": "2025.01",
-      "authors": "Contributor A, Contributor B",
-      "description": "Placeholder description for a project.",
-      "stack": [
-        "Python",
-        "React"
-      ],
-      "tags": [
-        "Demo"
-      ],
+      "title": "UniLife - A Personalized Career Consulting System",
+      "subtitle": "Undergraduate Final Year Project",
+      "date": "2024",
+      "authors": "Supervised by Prof. Benjamin C.M. Kao",
+      "description": "Web App designed for university students, including services such as interest discovery by chatting, job position recommendation, and career path planning.",
+      "image": "./images/UniLife.png",
       "links": [
         {
-          "type": "Repo",
-          "url": "https://www.bilibili.com/"
+          "type": "Website",
+          "url": "https://www.unilife.quest/"
         },
         {
-          "type": "Demo",
-          "url": "https://example.com/project-demo"
-        },
-        {
-          "type": "Docs",
-          "url": "https://docs.example.com/project"
+          "type": "Program",
+          "url": "https://www.cs.hku.hk/programmes/final-year-projects"
         }
-      ]
+      ],
+      "tags": ["Web Development", "AI", "Career Planning"]
+    },
+    {
+      "title": "CASH Algo Trading Challenge 2023",
+      "subtitle": "Best Strategy Design Award (1st Rank)",
+      "date": "2023",
+      "description": "A competition focuses on quantitative trading algorithms, requiring participants to design and implement an algorithm for a 2-month real-time simulation of Hong Kong stocks trading.",
+      "image": "./images/cashalgo.jpg",
+      "links": [
+        {
+          "type": "Competition",
+          "url": "https://algochallenge.org/hkequity2023/"
+        }
+      ],
+      "tags": ["Quantitative Trading", "Algorithm", "Finance"]
+    },
+    {
+      "title": "Semantic Reconstruction",
+      "subtitle": "Summer Research",
+      "date": "2023",
+      "authors": "Supervised by Prof. Hengshuang Zhao",
+      "description": "A novel framework that integrates 2D features with RGBD frames and subsequently fuses these 2D features into 3D features to enhance the performance of reconstruction.",
+      "image": "./images/Semrecon.png",
+      "links": [
+        {
+          "type": "Program",
+          "url": "https://gradsch.hku.hk/news_and_events/news_and_future_events/summer-research-programme-2023"
+        }
+      ],
+      "tags": ["3D Reconstruction", "Computer Vision", "Deep Learning"]
+    },
+    {
+      "title": "HKU ROBOMASTER AI Challenge",
+      "date": "2022",
+      "authors": "Sponsored by Prof. Jia Pan",
+      "description": "We present a competition-level solution to our robotics operates on a ROS (Robot Operating System)-based codebase. The codebase involves atomic operations on detection, decision, motion planning, etc.",
+      "image": "./images/HKUAstar.jpg",
+      "links": [
+        {
+          "type": "Competition",
+          "url": "https://innoacademy.engg.hku.hk/robomaster-ai5/"
+        }
+      ],
+      "tags": ["Robotics", "ROS", "AI"]
     }
   ]
 }

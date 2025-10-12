@@ -1,0 +1,23 @@
+{
+	"name": "Haozhou Xu 徐浩洲",
+	"icons": [
+		{
+			"src": "\/images\/site-144x144.png?v=M44lzPylqQ",
+			"sizes": "144x144",
+			"type": "image\/png",
+			"density": 3
+		},
+		{
+			"src": "\/images\/android-chrome-192x192.png?v=M44lzPylqQ",
+			"sizes": "192x192",
+			"type": "image\/png",
+			"density": 4
+		},
+		{
+			"src": "\/images\/android-chrome-512x512.png?v=M44lzPylqQ",
+			"sizes": "512x512",
+			"type": "image\/png",
+			"density": 10.67
+		}
+	]
+}

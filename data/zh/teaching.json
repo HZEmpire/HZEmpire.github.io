@@ -1,0 +1,18 @@
+{
+  "nav_label": "教学经历",
+  "title": "教学经历",
+  "items": [
+    {
+      "date": "2023年秋季",
+      "title": "COMP 2113A 编程技术",
+      "org": "香港大学",
+      "description": "助教，由<a href=\"https://www.cs.hku.hk/index.php/people/academic-staff/twchim\" target=\"_blank\" rel=\"noopener noreferrer\">詹达永</a>博士授课"
+    },
+    {
+      "date": "2022年秋季",
+      "title": "COMP 2113A 编程技术",
+      "org": "香港大学",
+      "description": "助教，由<a href=\"https://www.cs.hku.hk/index.php/people/academic-staff/twchim\" target=\"_blank\" rel=\"noopener noreferrer\">詹达永</a>博士授课"
+    }
+  ]
+}

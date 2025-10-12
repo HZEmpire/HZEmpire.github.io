@@ -1,0 +1,18 @@
+{
+  "nav_label": "Teaching",
+  "title": "Teaching",
+  "items": [
+    {
+      "date": "2023 Fall",
+      "title": "COMP 2113A Programming Technologies",
+      "org": "University of Hong Kong",
+      "description": "Teaching Assistant, instructed by Dr. <a href=\"https://www.cs.hku.hk/index.php/people/academic-staff/twchim\" target=\"_blank\" rel=\"noopener noreferrer\">Chim, Tat Wing</a>"
+    },
+    {
+      "date": "2022 Fall",
+      "title": "COMP 2113A Programming Technologies",
+      "org": "University of Hong Kong",
+      "description": "Teaching Assistant, instructed by Dr. <a href=\"https://www.cs.hku.hk/index.php/people/academic-staff/twchim\" target=\"_blank\" rel=\"noopener noreferrer\">Chim, Tat Wing</a>"
+    }
+  ]
+}

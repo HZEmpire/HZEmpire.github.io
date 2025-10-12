@@ -28,7 +28,7 @@
      "navbar": {"showLanguageDropdown": true},
      "home": {"showHero": true, "avatar": "./media/personal.jpg"},
      "backgrounds": {
-       "default": {"light": "./media/occupacy.jpg"}
+       "default": {"light": "./images/Background.jpg"}
      },
      "itemTypes": {
        "news": {"requiredKeys": ["date", "content"]},

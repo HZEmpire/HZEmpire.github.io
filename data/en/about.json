@@ -1,8 +1,10 @@
 {
-  "nav_label": "About Me",
-  "title": "🎄 About Me",
+  "nav_label": "About",
+  "title": "About Me",
   "texts": [
-    "<strong>About me placeholder:</strong> briefly introduce yourself, your affiliation, and the focus of your research or work.",
-    "Add another short paragraph here to highlight your interests, goals, or any call-to-action for visitors."
+    "Hi, I am a first year Computer Science Master student at the <a href=\"https://cse.ucsd.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">University of California - San Diego</a>. I'm currently working with Prof. <a href=\"https://sites.google.com/view/yianma/home\" target=\"_blank\" rel=\"noopener noreferrer\">Yian Ma</a> on a project related to <strong>Active Learning</strong>.",
+    "I received my bachelor's degree from the <a href=\"https://www.hku.hk/\" target=\"_blank\" rel=\"noopener noreferrer\">University of Hong Kong</a>. Previously I worked on the COVID-19 analysis & Disease Prevention System project under the supervision of Prof. <a href=\"https://www.arch.hku.hk/staff/arch/schuldenfrei-eric-h/\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Schuldenfrei</a> and Prof. <a href=\"https://www.eee.hku.hk/~hso/\" target=\"_blank\" rel=\"noopener noreferrer\">Hayden Kwok-Hay So</a>. I also spent a summer working with Prof. <a href=\"https://hszhao.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Hengshuang Zhao</a> on a 3D Scene Reconstruction and Segmentation project.",
+    "My research interests include <strong>Learning Theory and Empirical Reinforcement Learning</strong>. In addition, I have a strong passion for photography, welcome to visit my <a href=\"https://hzempire.github.io/PhotoGallery/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Photo Gallery</a>.",
+    "I'm looking for <strong>2025-26 new grad opportunities</strong> in the <strong>Quantitative Analysis / Machine Learning / Software Engineering</strong> fields. Feel free to contact me if you have any relevant opportunities or suggestions."
   ]
 }

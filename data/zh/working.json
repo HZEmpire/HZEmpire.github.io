@@ -1,0 +1,24 @@
+{
+  "nav_label": "工作经历",
+  "title": "工作经历",
+  "items": [
+    {
+      "date": "2024年夏季",
+      "title": "研究助理",
+      "org": "香港大学 - 建筑学院",
+      "description": "在<a href=\"https://www.arch.hku.hk/\" target=\"_blank\" rel=\"noopener noreferrer\">建筑学院</a>担任研究助理"
+    },
+    {
+      "date": "2023年夏季",
+      "title": "研究助理",
+      "org": "香港大学 - 计算机科学系",
+      "description": "在<a href=\"https://www.cs.hku.hk/\" target=\"_blank\" rel=\"noopener noreferrer\">计算机科学系</a>担任研究助理"
+    },
+    {
+      "date": "2022年夏季",
+      "title": "软件工程实习生",
+      "org": "亚信科技",
+      "description": "在<a href=\"https://www.asiainfo.com/en_us/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">亚信科技</a>担任软件工程实习生"
+    }
+  ]
+}
