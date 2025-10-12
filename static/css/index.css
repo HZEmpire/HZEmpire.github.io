@@ -139,6 +139,7 @@ html {
 }
 
 @media screen and (min-width: 1024px) {
+
   .navbar-menu #language-dropdown .navbar-dropdown .navbar-item,
   .navbar-menu.is-active #language-dropdown .navbar-dropdown .navbar-item {
     color: #363636 !important;
@@ -1923,7 +1924,7 @@ ul {
 
 .card-description {
   font-size: 1em;
-  color: #666;
+  color: #ececec;
   text-align: center;
 }
 
