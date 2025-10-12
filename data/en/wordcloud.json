@@ -11,6 +11,14 @@
     {
       "text": "Openness",
       "weight": 25
+    },
+    {
+      "text": "Collaboration",
+      "weight": 15
+    },
+    {
+      "text": "Impact",
+      "weight": 10
     }
   ]
 }

@@ -1,12 +1,16 @@
 {
   "cards": [
     {
-      "title": "Card One",
-      "description": "This is a placeholder card."
+      "title": "Uncertainty",
+      "description": "Investigating uncertainty in machine learning and decision-making."
     },
     {
-      "title": "Card Two",
-      "description": "Another placeholder card."
+      "title": "Photography",
+      "description": "Capturing moments and exploring visual storytelling."
+    },
+    {
+      "title": "Snooker",
+      "description": "Strategizing and enjoying the game."
     }
   ]
 }

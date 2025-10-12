@@ -1,6 +1,6 @@
 {
   "nav_label": "Blog",
-  "title": "Research Log",
+  "title": "Blog",
   "subtitle": "Stories, experiments, and longer reflections from ongoing projects.",
   "kicker": "Lab notebook",
   "archive_label": "View all posts",
@@ -26,6 +26,7 @@
   "blogs": [
     {
       "title": "HK Weather",
+      "slug": "hk-weather",
       "summary": "Real-time Hong Kong weather monitoring and forecast application with interactive visualizations and detailed meteorological data.",
       "image": "./images/Weather.png",
       "post_time": "2024-08-15",
@@ -44,6 +45,7 @@
     },
     {
       "title": "Photo Gallery",
+      "slug": "photo-gallery",
       "summary": "A personal photography portfolio showcasing travel and landscape photography from around the world.",
       "image": "./images/photogallery.png",
       "post_time": "2024-07-20",

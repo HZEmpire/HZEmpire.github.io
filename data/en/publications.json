@@ -3,12 +3,31 @@
   "title": "Publications",
   "publications": [
     {
+      "title": "SimulRAG: Simulator-based RAG for Grounding LLMs in Long-form Scientific QA",
+      "conference": "arXiv preprint",
+      "authors": "<strong>Haozhou Xu</strong>, Dongxia Wu, Matteo Chinazzi, Ruijia Niu, Rose Yu, Yi-An Ma",
+      "date": "2025",
+      "description": "A novel simulator-based Retrieval-Augmented Generation (RAG) framework to improve LLM grounding in long-form scientific question answering.",
+      "image": "images/SimulRAG.png",
+      "tags": [
+        "LLM",
+        "RAG",
+        "AI"
+      ],
+      "links": [
+        {
+          "type": "Preprint",
+          "url": "https://www.arxiv.org/abs/2509.25459"
+        }
+      ]
+    },
+    {
       "title": "Infrastructural occupancy analytics with bluetooth low energy enabled smart lighting system and spatial carbon dioxide sensing",
       "conference": "Journal of Building Engineering",
       "authors": "Chun Yin Lai, Marc Downie, Eric Schuldenfrei, <strong>Haozhou Xu</strong>, Trinity Gao, Howard Huang, Hayden Kwok-Hay So",
       "date": "2025",
       "description": "An smart multi-modal sensor node detection system for indoor environmental monitoring and human activity recognition.",
-      "image": "https://hzempire.github.io/images/CO2.jpg",
+      "image": "images/CO2.jpg",
       "tags": [
         "IoT",
         "Machine Learning",

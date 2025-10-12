@@ -1,16 +1,24 @@
 {
   "wordcloud": [
     {
-      "text": "创新",
+      "text": "取法乎上",
       "weight": 30
     },
     {
-      "text": "严谨",
+      "text": "行稳致远",
       "weight": 20
     },
     {
-      "text": "开放",
+      "text": "虚怀若谷",
       "weight": 25
+    },
+    {
+      "text": "格物致知",
+      "weight": 15
+    },
+    {
+      "text": "诚意正心",
+      "weight": 10
     }
   ]
 }

@@ -1,12 +1,16 @@
 {
   "cards": [
     {
-      "title": "卡片一",
-      "description": "这是一个占位卡片。"
+      "title": "不确定性",
+      "description": "研究机器学习和决策中的不确定性。"
     },
     {
-      "title": "卡片二",
-      "description": "另一个占位卡片。"
+      "title": "摄影",
+      "description": "捕捉瞬间，探索视觉故事。"
+    },
+    {
+      "title": "斯诺克",
+      "description": "环环相扣，享受比赛的乐趣。"
     }
   ]
 }

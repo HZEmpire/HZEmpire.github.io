@@ -3,6 +3,12 @@
   "title": "教学经历",
   "items": [
     {
+      "date": "2025年秋季",
+      "title": "DSC 190 强化学习",
+      "org": "加州大学圣地亚哥分校",
+      "description": "助教，由<a href=\"https://sites.google.com/view/yianma/home\" target=\"_blank\" rel=\"noopener noreferrer\">马易安</a>教授授课"
+    },
+    {
       "date": "2023年秋季",
       "title": "COMP 2113A 编程技术",
       "org": "香港大学",

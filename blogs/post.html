@@ -704,7 +704,8 @@
     function renderCover(container, entry) {
       if (!container) return;
       container.innerHTML = '';
-      const slot = createCoverSlot(entry && entry.hero_image, entry && entry.title);
+      const imageSrc = entry && (entry.hero_image || entry.image);
+      const slot = createCoverSlot(imageSrc, entry && entry.title);
       container.appendChild(slot);
       container.hidden = false;
     }
@@ -715,7 +716,12 @@
       const hasImage = typeof src === 'string' && src.trim();
       if (hasImage) {
         const img = document.createElement('img');
-        img.src = src;
+        // Fix image path: change ./images/ to ../images/ for blogs/post.html
+        let imageSrc = src;
+        if (imageSrc.startsWith('./images/')) {
+          imageSrc = imageSrc.replace('./images/', '../images/');
+        }
+        img.src = imageSrc;
         img.alt = title || 'Blog cover';
         img.loading = 'lazy';
         wrapper.appendChild(img);

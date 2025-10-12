@@ -3,12 +3,31 @@
   "title": "发表论文",
   "publications": [
     {
+      "title": "SimulRAG: 基于模拟器的RAG用于在长篇科学问答中为LLM提供依据",
+      "conference": "arXiv预印本",
+      "authors": "<strong>Haozhou Xu</strong>, Dongxia Wu, Matteo Chinazzi, Ruijia Niu, Rose Yu, Yi-An Ma",
+      "date": "2025",
+      "description": "一种新颖的基于模拟器的检索增强生成（RAG）框架，以提高大型语言模型在长篇科学问答中的依据能力。",
+      "image": "images/SimulRAG.png",
+      "tags": [
+        "大型语言模型",
+        "RAG",
+        "人工智能"
+      ],
+      "links": [
+        {
+          "type": "预印本",
+          "url": "https://www.arxiv.org/abs/2509.25459"
+        }
+      ]
+    },
+    {
       "title": "基于蓝牙低功耗智能照明系统和空间二氧化碳感测的基础设施占用分析",
       "conference": "建筑工程学报",
-      "authors": "Chun Yin Lai, Marc Downie, Eric Schuldenfrei, <strong>徐浩洲</strong>, Trinity Gao, Howard Huang, Hayden Kwok-Hay So",
+      "authors": "Chun Yin Lai, Marc Downie, Eric Schuldenfrei, <strong>Haozhou Xu</strong>, Trinity Gao, Howard Huang, Hayden Kwok-Hay So",
       "date": "2025",
       "description": "一种用于室内环境监测和人类活动识别的智能多模态传感器节点检测系统。",
-      "image": "https://hzempire.github.io/images/CO2.jpg",
+      "image": "images/CO2.jpg",
       "tags": [
         "物联网",
         "机器学习",

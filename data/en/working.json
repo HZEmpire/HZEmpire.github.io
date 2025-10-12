@@ -3,6 +3,12 @@
   "title": "Work Experience",
   "items": [
     {
+      "date": "2025 Summer",
+      "title": "Software Engineer Intern",
+      "org": "Amazon",
+      "description": "Software Engineer Intern at <a href=\"https://www.amazon.jobs/en/\" target=\"_blank\" rel=\"noopener noreferrer\">Amazon</a> Shepherd Service"
+    },
+    {
       "date": "2024 Summer",
       "title": "Research Assistant",
       "org": "University of Hong Kong - Faculty of Architecture",

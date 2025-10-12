@@ -426,14 +426,11 @@
     }
 
     function decorateLinkAnchor(anchor, link, label) {
-      console.log("icon decorateLinkAnchor")
       if (!anchor) return;
       anchor.classList.add('meta-link');
 
       const applyIcon = () => {
         const iconPath = getLinkIconPath(link);
-        console.log("iconPsth=")
-        console.log(iconPsth)
         if (!iconPath) return;
 
         // 移除旧图标（防止重复添加）
@@ -905,7 +902,12 @@
       const hasImage = typeof src === 'string' && src.trim();
       if (hasImage) {
         const img = document.createElement('img');
-        img.src = src;
+        // Fix image path: change ./images/ to ../images/ for blogs/index.html
+        let imageSrc = src;
+        if (imageSrc.startsWith('./images/')) {
+          imageSrc = imageSrc.replace('./images/', '../images/');
+        }
+        img.src = imageSrc;
         img.alt = title || 'Preview';
         img.loading = 'lazy';
         wrapper.appendChild(img);

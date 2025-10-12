@@ -1,10 +1,9 @@
 {
   "nav_label": "关于我",
-  "title": "关于我",
+  "title": "关于徐浩洲",
   "texts": [
-    "你好，我是<a href=\"https://cse.ucsd.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">加州大学圣地亚哥分校</a>计算机科学系的一年级硕士研究生。我目前在<a href=\"https://sites.google.com/view/yianma/home\" target=\"_blank\" rel=\"noopener noreferrer\">马奕安</a>教授的指导下从事<strong>主动学习</strong>相关的研究项目。",
+    "你好，我是<a href=\"https://cse.ucsd.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">加州大学圣地亚哥分校</a>计算机科学系的二年级硕士研究生。我目前在<a href=\"https://sites.google.com/view/yianma/home\" target=\"_blank\" rel=\"noopener noreferrer\">马易安</a>教授和<a href=\"https://roseyu.com/\" target=\"_blank\" rel=\"noopener noreferrer\">虞琦</a>教授的指导下从事<strong>主动学习</strong>相关的研究项目。",
     "我在<a href=\"https://www.hku.hk/\" target=\"_blank\" rel=\"noopener noreferrer\">香港大学</a>获得了学士学位。此前，我在<a href=\"https://www.arch.hku.hk/staff/arch/schuldenfrei-eric-h/\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Schuldenfrei</a>教授和<a href=\"https://www.eee.hku.hk/~hso/\" target=\"_blank\" rel=\"noopener noreferrer\">Hayden Kwok-Hay So</a>教授的指导下从事新冠疫情分析与疾病预防系统项目。我还在暑假期间与<a href=\"https://hszhao.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">赵恒爽</a>教授合作开展了3D场景重建与分割项目。",
-    "我的研究兴趣包括<strong>学习理论和实证强化学习</strong>。此外，我对摄影有着浓厚的兴趣，欢迎访问我的<a href=\"https://hzempire.github.io/PhotoGallery/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">摄影作品集</a>。",
-    "我正在寻找<strong>2025-26年的应届生职位</strong>，方向包括<strong>量化分析 / 机器学习 / 软件工程</strong>。如果您有相关机会或建议，欢迎随时联系我。"
+    "我的研究兴趣包括<strong>强化学习、以及大型语言模型的不确定性</strong>。此外，我对摄影有着浓厚的兴趣，欢迎访问我的<a href=\"https://hzempire.github.io/PhotoGallery/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">摄影作品集</a>。"
   ]
 }

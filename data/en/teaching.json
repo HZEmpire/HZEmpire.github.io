@@ -3,6 +3,12 @@
   "title": "Teaching",
   "items": [
     {
+      "date": "2025 Fall",
+      "title": "DSC 190 Reinforcement Learning",
+      "org": "University of California, San Diego",
+      "description": "Teaching Assistant, instructed by Prof. <a href=\"https://sites.google.com/view/yianma/home\" target=\"_blank\" rel=\"noopener noreferrer\">Yian Ma</a>"
+    },
+    {
       "date": "2023 Fall",
       "title": "COMP 2113A Programming Technologies",
       "org": "University of Hong Kong",
