@@ -5,9 +5,9 @@
     {
       "title": "SimulRAG: 基于模拟器的RAG用于在长篇科学问答中为LLM提供依据",
       "conference": "arXiv预印本",
-      "authors": "<strong>Haozhou Xu</strong>, Dongxia Wu, Matteo Chinazzi, Ruijia Niu, Rose Yu, Yi-An Ma",
+      "authors": "<strong>Haozhou Xu*</strong>, Dongxia Wu*, Matteo Chinazzi, Ruijia Niu, Rose Yu, Yi-An Ma",
       "date": "2025",
-      "description": "一种新颖的基于模拟器的检索增强生成（RAG）框架，以提高大型语言模型在长篇科学问答中的依据能力。",
+      "description": "一种新颖的基于不确定性和模拟器的检索增强生成（RAG）框架，以提高大型语言模型在长篇科学问答中的依据能力。",
       "image": "images/SimulRAG.png",
       "tags": [
         "大型语言模型",
