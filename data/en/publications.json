@@ -27,7 +27,7 @@
       "authors": "Chun Yin Lai, Marc Downie, Eric Schuldenfrei, <strong>Haozhou Xu</strong>, Trinity Gao, Howard Huang, Hayden Kwok-Hay So",
       "date": "2025",
       "description": "An smart multi-modal sensor node detection system for indoor environmental monitoring and human activity recognition.",
-      "image": "images/CO2.jpg",
+      "image": "images/CO2.png",
       "tags": [
         "IoT",
         "Machine Learning",
