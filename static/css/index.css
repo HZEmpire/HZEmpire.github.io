@@ -1796,6 +1796,11 @@ body.dark-mode .blog-archive-callout {
     height: auto !important;
   }
 
+  /* Keep card thumbnails inside their fixed aspect-ratio containers. */
+  .meta-card-media img {
+    height: 100% !important;
+  }
+
   /* 优化列表显示 */
   ul,
   ol {

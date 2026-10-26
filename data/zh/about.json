@@ -2,8 +2,8 @@
   "nav_label": "关于我",
   "title": "关于徐浩洲",
   "texts": [
-    "你好，我是<a href=\"https://cse.ucsd.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">加州大学圣地亚哥分校</a>计算机科学系的二年级硕士研究生。我目前在<a href=\"https://sites.google.com/view/yianma/home\" target=\"_blank\" rel=\"noopener noreferrer\">马易安</a>教授和<a href=\"https://roseyu.com/\" target=\"_blank\" rel=\"noopener noreferrer\">虞琦</a>教授的指导下从事<strong>主动学习</strong>相关的研究项目。",
-    "我在<a href=\"https://www.hku.hk/\" target=\"_blank\" rel=\"noopener noreferrer\">香港大学</a>获得了学士学位。此前，我在<a href=\"https://www.arch.hku.hk/staff/arch/schuldenfrei-eric-h/\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Schuldenfrei</a>教授和<a href=\"https://www.eee.hku.hk/~hso/\" target=\"_blank\" rel=\"noopener noreferrer\">Hayden Kwok-Hay So</a>教授的指导下从事新冠疫情分析与疾病预防系统项目。我还在暑假期间与<a href=\"https://hszhao.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">赵恒爽</a>教授合作开展了3D场景重建与分割项目。",
-    "我的研究兴趣包括<strong>强化学习、以及大型语言模型的不确定性</strong>。此外，我对摄影有着浓厚的兴趣，欢迎访问我的<a href=\"https://hzempire.github.io/PhotoGallery/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">摄影作品集</a>。"
+    "你好，我目前是 <strong><a href=\"https://ads.google.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Google Ads</a> 的机器学习工程师</strong>，负责模型设计与质量分析。我的研究兴趣包括<strong>强化学习、不确定性量化和主动学习</strong>。",
+    "我获得了<a href=\"https://cse.ucsd.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">加州大学圣地亚哥分校</a>计算机科学硕士学位，本科毕业于<a href=\"https://www.hku.hk/\" target=\"_blank\" rel=\"noopener noreferrer\">香港大学</a>。曾与 <a href=\"https://sites.google.com/view/yianma/home\" target=\"_blank\" rel=\"noopener noreferrer\">Yian Ma</a> 和 <a href=\"https://roseyu.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Rose Yu</a> 教授合作开展主动学习研究，也曾在港大与 <a href=\"https://www.arch.hku.hk/staff/arch/schuldenfrei-eric-h/\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Schuldenfrei</a>、<a href=\"https://www.eee.hku.hk/~hso/\" target=\"_blank\" rel=\"noopener noreferrer\">Hayden Kwok-Hay So</a> 和 <a href=\"https://hszhao.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Hengshuang Zhao</a> 教授合作。",
+    "工作与研究之外，我也热爱摄影，欢迎浏览我的<a href=\"https://hzempire.github.io/PhotoGallery/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">摄影作品集</a>。"
   ]
 }

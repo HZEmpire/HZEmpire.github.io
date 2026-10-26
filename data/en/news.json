@@ -3,12 +3,16 @@
   "title": "News",
   "news": [
     {
-      "date": "2025-09",
-      "content": "My work in uncertainty agent has been pre-printed."
+      "date": "Present",
+      "content": "I'm open to <strong>Machine Learning opportunities</strong>. Feel free to reach out if you have any relevant opportunities or suggestions."
     },
     {
-      "date": "2025-06",
-      "content": "I'm looking for <strong>2025-26 new grad opportunities</strong> in the <strong>Machine Learning</strong> fields. Feel free to contact me if you have any relevant opportunities or suggestions."
+      "date": "2026-02",
+      "content": "<a href=\"https://arxiv.org/abs/2602.22769\" target=\"_blank\" rel=\"noopener noreferrer\">AMA-Bench</a> is now available as a preprint, evaluating long-horizon memory for agentic applications."
+    },
+    {
+      "date": "2025-09",
+      "content": "<a href=\"https://arxiv.org/abs/2509.25459\" target=\"_blank\" rel=\"noopener noreferrer\">SimulRAG</a> is now available as a preprint, exploring uncertainty- and simulator-based retrieval for scientific question answering."
     }
   ]
 }

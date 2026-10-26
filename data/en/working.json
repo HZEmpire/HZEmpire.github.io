@@ -3,6 +3,12 @@
   "title": "Work Experience",
   "items": [
     {
+      "date": "Present",
+      "title": "Machine Learning Engineer",
+      "org": "Google Ads",
+      "description": "Model design and quality analysis for <a href=\"https://ads.google.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Google Ads</a>."
+    },
+    {
       "date": "2025 Summer",
       "title": "Software Engineer Intern",
       "org": "Amazon",

@@ -3,8 +3,27 @@
   "title": "Publications",
   "publications": [
     {
+      "title": "AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications",
+      "conference": "ICML 2026",
+      "authors": "Yujie Zhao, Boqin Yuan, Junbo Huang, Haocheng Yuan, Zhongming Yu, <strong>Haozhou Xu</strong>, Lanxiang Hu, Abhilash Shankarampeta, Zimeng Huang, Wentao Ni, Yuandong Tian, Jishen Zhao",
+      "date": "2026",
+      "description": "A benchmark for long-horizon agent memory using real-world and synthetic trajectories, with AMA-Agent combining causality graphs and tool-augmented retrieval.",
+      "image": "images/AMA-Bench.png",
+      "tags": [
+        "Agent Memory",
+        "Benchmark",
+        "AI Agents"
+      ],
+      "links": [
+        {
+          "type": "Preprint",
+          "url": "https://arxiv.org/pdf/2602.22769"
+        }
+      ]
+    },
+    {
       "title": "SimulRAG: Simulator-based RAG for Grounding LLMs in Long-form Scientific QA",
-      "conference": "arXiv preprint",
+      "conference": "COLM 2026",
       "authors": "<strong>Haozhou Xu*</strong>, Dongxia Wu*, Matteo Chinazzi, Ruijia Niu, Rose Yu, Yi-An Ma",
       "date": "2025",
       "description": "A novel uncertainty&simulator-based Retrieval-Augmented Generation (RAG) framework to improve LLM grounding in long-form scientific question answering.",

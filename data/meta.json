@@ -347,12 +347,16 @@
     ],
     "socials": [
         {
+            "icon": "fas fa-graduation-cap",
+            "url": "https://scholar.google.com/citations?user=hu5o1JoAAAAJ&hl=en"
+        },
+        {
             "icon": "fab fa-github",
             "url": "https://github.com/HZEmpire"
         },
         {
             "icon": "fab fa-linkedin",
-            "url": "https://www.linkedin.com/in/haozhou-xu-858062288"
+            "url": "https://www.linkedin.com/in/haozhou-xu/"
         },
         {
             "icon": "fab fa-instagram",
@@ -391,7 +395,7 @@
                 "en": "Resume",
                 "zh": "简历"
             },
-            "url": "./files/Haozhou2025.pdf"
+            "url": "./files/Haozhou2026.pdf"
         }
     ],
     "themes": {

@@ -3,12 +3,16 @@
   "title": "新闻",
   "news": [
     {
-      "date": "2025-09",
-      "content": "我在不确定性代理方面的工作已被预印。"
+      "date": "目前",
+      "content": "我正在寻找<strong>机器学习（ML）相关机会</strong>。如果您有相关机会或建议，欢迎联系我。"
     },
     {
-      "date": "2025-06",
-      "content": "我正在寻找<strong>2025-26年应届毕业生</strong>在<strong>机器学习</strong>领域的工作机会。如果您有任何相关机会或建议，欢迎联系我。"
+      "date": "2026-02",
+      "content": "<a href=\"https://arxiv.org/abs/2602.22769\" target=\"_blank\" rel=\"noopener noreferrer\">AMA-Bench</a> 预印本已发布，聚焦智能体应用中的长程记忆评测。"
+    },
+    {
+      "date": "2025-09",
+      "content": "<a href=\"https://arxiv.org/abs/2509.25459\" target=\"_blank\" rel=\"noopener noreferrer\">SimulRAG</a> 预印本已发布，探索基于不确定性与模拟器的检索增强科学问答。"
     }
   ]
 }

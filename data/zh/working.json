@@ -3,11 +3,17 @@
   "title": "工作经历",
   "items": [
     {
+      "date": "至今",
+      "title": "机器学习工程师",
+      "org": "Google Ads",
+      "description": "负责 <a href=\"https://ads.google.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Google Ads</a> 的模型设计与质量分析。"
+    },
+    {
       "date": "2025年夏季",
       "title": "软件工程实习生",
       "org": "亚马逊",
       "description": "在<a href=\"https://www.amazon.jobs/en/\" target=\"_blank\" rel=\"noopener noreferrer\">亚马逊</a> Shepherd Service担任软件工程实习生"
-    }
+    },
     {
       "date": "2024年夏季",
       "title": "研究助理",
