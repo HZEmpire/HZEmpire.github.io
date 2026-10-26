@@ -6,31 +6,36 @@
       "date": "Present",
       "title": "Machine Learning Engineer",
       "org": "Google Ads",
-      "description": "Model design and quality analysis for <a href=\"https://ads.google.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Google Ads</a>."
+      "description": "Model design and quality analysis.",
+      "org_url": "https://ads.google.com/"
     },
     {
       "date": "2025 Summer",
       "title": "Software Engineer Intern",
       "org": "Amazon",
-      "description": "Software Engineer Intern at <a href=\"https://www.amazon.jobs/en/\" target=\"_blank\" rel=\"noopener noreferrer\">Amazon</a> Shepherd Service"
+      "description": "Shepherd Service",
+      "org_url": "https://www.amazon.jobs/en/"
     },
     {
       "date": "2024 Summer",
       "title": "Research Assistant",
       "org": "University of Hong Kong - Faculty of Architecture",
-      "description": "Research Assistant at the <a href=\"https://www.arch.hku.hk/\" target=\"_blank\" rel=\"noopener noreferrer\">Faculty of Architecture</a>"
+      "description": "",
+      "org_url": "https://www.arch.hku.hk/"
     },
     {
       "date": "2023 Summer",
       "title": "Research Assistant",
       "org": "University of Hong Kong - Department of Computer Science",
-      "description": "Research Assistant at the <a href=\"https://www.cs.hku.hk/\" target=\"_blank\" rel=\"noopener noreferrer\">Department of Computer Science</a>"
+      "description": "",
+      "org_url": "https://www.cs.hku.hk/"
     },
     {
       "date": "2022 Summer",
       "title": "Software Engineer Intern",
       "org": "AsiaInfo Technologies",
-      "description": "Software Engineer Intern at <a href=\"https://www.asiainfo.com/en_us/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">AsiaInfo Technologies</a>"
+      "description": "",
+      "org_url": "https://www.asiainfo.com/en_us/index.html"
     }
   ]
 }

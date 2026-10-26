@@ -6,31 +6,36 @@
       "date": "至今",
       "title": "机器学习工程师",
       "org": "Google Ads",
-      "description": "负责 <a href=\"https://ads.google.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Google Ads</a> 的模型设计与质量分析。"
+      "description": "模型设计与质量分析。",
+      "org_url": "https://ads.google.com/"
     },
     {
       "date": "2025年夏季",
       "title": "软件工程实习生",
       "org": "亚马逊",
-      "description": "在<a href=\"https://www.amazon.jobs/en/\" target=\"_blank\" rel=\"noopener noreferrer\">亚马逊</a> Shepherd Service担任软件工程实习生"
+      "description": "Shepherd Service",
+      "org_url": "https://www.amazon.jobs/en/"
     },
     {
       "date": "2024年夏季",
       "title": "研究助理",
       "org": "香港大学 - 建筑学院",
-      "description": "在<a href=\"https://www.arch.hku.hk/\" target=\"_blank\" rel=\"noopener noreferrer\">建筑学院</a>担任研究助理"
+      "description": "",
+      "org_url": "https://www.arch.hku.hk/"
     },
     {
       "date": "2023年夏季",
       "title": "研究助理",
       "org": "香港大学 - 计算机科学系",
-      "description": "在<a href=\"https://www.cs.hku.hk/\" target=\"_blank\" rel=\"noopener noreferrer\">计算机科学系</a>担任研究助理"
+      "description": "",
+      "org_url": "https://www.cs.hku.hk/"
     },
     {
       "date": "2022年夏季",
       "title": "软件工程实习生",
       "org": "亚信科技",
-      "description": "在<a href=\"https://www.asiainfo.com/en_us/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">亚信科技</a>担任软件工程实习生"
+      "description": "",
+      "org_url": "https://www.asiainfo.com/en_us/index.html"
     }
   ]
 }

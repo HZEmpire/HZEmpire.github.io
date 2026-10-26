@@ -544,6 +544,122 @@ html {
   line-height: 1.6;
 }
 
+.experience-list {
+  list-style: none;
+  margin: 24px 0;
+  padding: 0 !important;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.95);
+  border: 1px solid rgba(50, 115, 220, 0.12);
+  border-radius: 16px;
+  box-shadow: 0 12px 32px rgba(15, 23, 42, 0.06);
+  text-align: left;
+}
+
+.experience-entry {
+  display: grid;
+  grid-template-columns: 124px minmax(0, 1fr);
+  gap: 24px;
+  margin: 0;
+  padding: 24px 28px;
+}
+
+.experience-entry + .experience-entry {
+  border-top: 1px solid rgba(100, 116, 139, 0.16);
+}
+
+.experience-date {
+  padding-top: 3px;
+  color: #64748b;
+  font-size: 0.88rem;
+  font-weight: 500;
+  line-height: 1.6;
+}
+
+.experience-content {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.experience-title {
+  margin: 0;
+  color: #1f2d3d;
+  font-size: 1.12rem;
+  font-weight: 700;
+  line-height: 1.45;
+}
+
+.experience-org {
+  margin: 5px 0 0;
+  color: #475569;
+  font-size: 0.98rem;
+  line-height: 1.6;
+}
+
+.experience-description {
+  margin: 8px 0 0;
+  color: #64748b;
+  font-size: 0.9rem;
+  line-height: 1.65;
+}
+
+.experience-list a {
+  color: #2864a5;
+  text-decoration: underline;
+  text-decoration-color: rgba(40, 100, 165, 0.3);
+  text-underline-offset: 3px;
+}
+
+.experience-list a:hover,
+.experience-list a:focus-visible {
+  color: #174b85;
+  text-decoration-color: currentColor;
+}
+
+body.dark-mode .experience-list {
+  background: rgba(30, 41, 59, 0.95);
+  border-color: rgba(148, 163, 184, 0.22);
+}
+
+body.dark-mode .experience-entry + .experience-entry {
+  border-color: rgba(148, 163, 184, 0.2);
+}
+
+body.dark-mode .experience-title {
+  color: #f1f5f9;
+}
+
+body.dark-mode .experience-org {
+  color: #cbd5e1;
+}
+
+body.dark-mode .experience-date,
+body.dark-mode .experience-description {
+  color: #aab9cc;
+}
+
+body.dark-mode .experience-list a {
+  color: #93c5fd;
+  text-decoration-color: rgba(147, 197, 253, 0.4);
+}
+
+@media screen and (max-width: 600px) {
+  .experience-entry {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 8px;
+    padding: 20px;
+  }
+
+  .experience-date {
+    padding-top: 0;
+    font-size: 0.82rem;
+  }
+
+  .experience-title {
+    font-size: 1.05rem;
+  }
+}
+
 .meta-card,
 .blog-card {
   background: rgba(255, 255, 255, 0.95);
