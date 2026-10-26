@@ -18,6 +18,14 @@
         {
           "type": "预印本",
           "url": "https://arxiv.org/pdf/2602.22769"
+        },
+        {
+          "type": "项目主页",
+          "url": "https://ama-bench.github.io/"
+        },
+        {
+          "type": "代码",
+          "url": "https://github.com/AMA-Bench/AMA-Hub"
         }
       ]
     },
@@ -37,6 +45,10 @@
         {
           "type": "预印本",
           "url": "https://www.arxiv.org/abs/2509.25459"
+        },
+        {
+          "type": "代码",
+          "url": "https://github.com/HZEmpire/SimulRAG"
         }
       ]
     },

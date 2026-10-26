@@ -18,6 +18,14 @@
         {
           "type": "Preprint",
           "url": "https://arxiv.org/pdf/2602.22769"
+        },
+        {
+          "type": "Project",
+          "url": "https://ama-bench.github.io/"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/AMA-Bench/AMA-Hub"
         }
       ]
     },
@@ -37,6 +45,10 @@
         {
           "type": "Preprint",
           "url": "https://www.arxiv.org/abs/2509.25459"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/HZEmpire/SimulRAG"
         }
       ]
     },
